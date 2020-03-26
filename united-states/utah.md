@@ -42,6 +42,7 @@
 * Tooele
 * Uintah
 * [Utah](http://www.utahcounty.gov)
+  * [Coronavirus Disease 2019 (COVID-19)](http://www.utahcounty.gov/covid19/index.asp)
 * Wasatch
 * Washington
 * Wayne
