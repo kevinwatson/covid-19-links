@@ -2,11 +2,20 @@
 
 ## Federal Departments and Agencies
 
-* [Government Departments and Agencies](https://www.usa.gov/federal-agencies)
+* [A-Z Index of U.S. Government Departments and Agencies](https://www.usa.gov/federal-agencies)
+
+### Department and Agency Websites
+
 * [Centers for Disease Control and Prevention](https://www.cdc.gov/)
 * [Coronavirus.Gov](https://www.coronavirus.gov/)
+* [Department of Homeland Security](https://www.dhs.gov/)
+* [Federal Aviation Administration](https://www.faa.gov/)
+* [Federal Communications Commission - Coronavirus](https://www.fcc.gov/coronavirus)
+  * [COVID-19 Consumer Warnings and Safety Tips](https://www.fcc.gov/covid-scams)
+  * [Keep Americans Connected Pledge](https://www.fcc.gov/keep-americans-connected)
+* [GovInfo - U.S. Government Publishing Office](https://www.govinfo.gov/features/coronavirus)
 
-## Related Bills
+## Legislative Bills
 
 * [S.3548 - CARES Act](https://www.congress.gov/bill/116th-congress/senate-bill/3548)
 
