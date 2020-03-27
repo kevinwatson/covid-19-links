@@ -1,16 +1,16 @@
 # Utah
 
+### Shortcuts
+
+* [Cities](utah.md#cities)
 * [Counties](utah.md#counties)
 * [School Districts](utah.md#school-districts)
 * [State Government](utah.md#state-government)
 
-## State Government
+## Cities
 
-* [Coronavirus.Utah.Gov](https://coronavirus.utah.gov)
-* [Utah Department of Health](https://health.utah.gov)
-* [Utah Leads Together Plan](https://issuu.com/goed/docs/utah-leads-together-plan)
-* [Utah Leads Together Plan - Summary](https://issuu.com/goed/docs/utah-leads-together-plan-summary)
-* [Resources for Business](https://coronavirus.utah.gov/business/)
+* [Salt Lake City](https://www.slc.gov/)
+  * [COVID-19](https://www.slc.gov/mayor/covid-19/)
 
 ## Counties
 
@@ -37,8 +37,12 @@
 * Sanpete
 * Sevier
 * [Summit](https://www.summitcounty.org/)
-  * [Summit County Residents Ordered to Shelter-In-Place](https://coronavirus.utah.gov/summit-county-residents-ordered-to-shelter-in-place/)
   * [Coronavirus (COVID-19) Updates](https://www.summitcounty.org/1129/CoronaVirus-Updates)
+  * [Joint Public Health Order
+Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Public-Health-Order-2020-03-FINAL)
+  * [Summit County - Twitter](https://twitter.com/SummitCountyUT)
+  * [Summit County Sheriff's Office](https://www.summitcountysheriff.org)
+  * [Summit County Sheriff's Office - Twitter](https://twitter.com/SummitCountySO)
 * Tooele
 * Uintah
 * [Utah](http://www.utahcounty.gov)
@@ -84,3 +88,12 @@
 * [Washington County](https://www.washk12.org)
 * [Wayne](https://www.waynesd.org)
 * [Weber](https://wsd.net)
+
+## State Government
+
+* [Utah](https://www.utah.gov)
+* [Coronavirus.Utah.Gov](https://coronavirus.utah.gov)
+* [Utah Department of Health](https://health.utah.gov)
+* [Utah Leads Together Plan](https://issuu.com/goed/docs/utah-leads-together-plan)
+* [Utah Leads Together Plan - Summary](https://issuu.com/goed/docs/utah-leads-together-plan-summary)
+* [Resources for Business](https://coronavirus.utah.gov/business/)
