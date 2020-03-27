@@ -54,7 +54,7 @@
 * New Hampshire
 * New Jersey
 * New Mexico
-* New York
+* [New York](new-york.md)
 * North Carolina
 * North Dakota
 * Northern Mariana Islands
