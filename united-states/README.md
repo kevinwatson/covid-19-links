@@ -46,7 +46,7 @@
 * Florida
 * Georgia
 * Guam
-* Hawaii
+* [Hawaii](hawaii.md)
 * Idaho
 * Illinois
 * Indiana
