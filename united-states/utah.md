@@ -10,8 +10,21 @@
 
 ## Cities
 
+* [Bountiful](https://www.bountifulutah.gov/)
+  * [Bountiful City Response to COVID-19](https://www.bountifulutah.gov/file/702cd7a4-ded8-4246-a34c-694e828d9c11)
+* [Draper](https://www.draper.ut.us/)
+* [Lehi](https://www.lehi-ut.gov/)
+  * [Coronavirus Updates](https://www.lehi-ut.gov/coronavirus-updates/)
+* [Murray](https://www.murray.utah.gov/)
+* [Provo](https://www.provo.org/)
+  * [Community Safety Plan for COVID-19](https://www.provo.org/city-services/covid19)
 * [Salt Lake City](https://www.slc.gov/)
   * [COVID-19](https://www.slc.gov/mayor/covid-19/)
+  * [Proclamation Of Local Emergency](https://www.slc.gov/mayor/proclamation-of-local-emergency/)
+* [Sandy](https://www.sandy.utah.gov/)
+  * [Coronavirus Updates](https://www.sandy.utah.gov/departments/emergency-management/coronavirus)
+* [West Valley City](https://www.wvc-ut.gov/)
+  * [COVID-19 Preparation and Information](https://www.wvc-ut.gov/1787/COVID-19)
 
 ## Counties
 
