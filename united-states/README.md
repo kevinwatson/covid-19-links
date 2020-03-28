@@ -1,5 +1,12 @@
 # United States of America
 
+### Shortcuts
+
+* [Federal Departments and Agencies](README.md#federal-departments-and-agencies)
+* [Legislative Bills](README.md#legislative-bills)
+* [National Parks](README.md#national-parks)
+* [States and Territories](README.md#states-and-territories)
+
 ## Federal Departments and Agencies
 
 * [A-Z Index of U.S. Government Departments and Agencies](https://www.usa.gov/federal-agencies)
