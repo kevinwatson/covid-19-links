@@ -27,7 +27,7 @@
 * Arizona
 * Arkansas
 * [California](california.md)
-* Colorado
+* [Colorado](colorado.md)
 * Connecticut
 * Delaware
 * Florida
