@@ -133,3 +133,4 @@ Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Publi
 * [Utah Leads Together Plan](https://issuu.com/goed/docs/utah-leads-together-plan)
 * [Utah Leads Together Plan - Summary](https://issuu.com/goed/docs/utah-leads-together-plan-summary)
 
+[<< Back to United States of America](README.md)
