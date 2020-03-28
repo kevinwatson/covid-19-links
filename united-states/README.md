@@ -47,7 +47,7 @@
 * Georgia
 * Guam
 * [Hawaii](hawaii.md)
-* Idaho
+* [Idaho](idaho.md)
 * Illinois
 * Indiana
 * Iowa
