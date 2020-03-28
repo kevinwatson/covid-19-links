@@ -19,6 +19,12 @@
 
 * [S.3548 - CARES Act](https://www.congress.gov/bill/116th-congress/senate-bill/3548)
 
+## National Parks
+
+* [National Park Service](https://www.nps.gov/)
+  * [NPS Public Health Update](https://www.nps.gov/aboutus/news/public-health-update.htm)
+  * [Find a Park](https://www.nps.gov/findapark/index.htm)
+
 ## States and Territories
 
 * American Samoa
