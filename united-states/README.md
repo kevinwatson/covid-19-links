@@ -50,7 +50,7 @@
 * Missouri
 * Montana
 * Nebraska
-* Nevada
+* [Nevada](nevada.md)
 * New Hampshire
 * New Jersey
 * New Mexico
