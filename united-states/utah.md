@@ -4,7 +4,8 @@
 
 * [Cities](utah.md#cities)
 * [Counties](utah.md#counties)
-* [School Districts](utah.md#school-districts)
+* [Higher Education](utah.md#higher-education)
+* [K-12 School Districts](utah.md#k-12-school-districts)
 * [State Government](utah.md#state-government)
 
 ## Cities
@@ -52,7 +53,26 @@ Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Publi
 * Wayne
 * Weber
 
-## School Districts
+## Higher Education
+
+* [Brigham Young University](https://www.byu.edu/)
+  * [Coronavirus (COVID-19) Updates](https://www.byu.edu/coronavirus)
+* [Dixie State University](https://dixie.edu/)
+  * [DSU'S COVID-19 Response Plan](https://wellness.dixie.edu/coronavirus-information/)
+* [Salt Lake Community College](http://www.slcc.edu/)
+  * [Coronavirus (COVID-19) Updates](http://www.slcc.edu/safe/c19.aspx)
+* [Snow College](https://www.snow.edu/)
+  * [COVID-19 (novel coronavirus) Information](https://www.snow.edu/offices/safety/coronavirus/index.html)
+* [University of Utah](https://www.utah.edu/)
+  * [COVID-19 Central @TheU](https://coronavirus.utah.edu/)
+* [Utah State University](https://www.usu.edu/)
+  * [Coronavirus (COVID-19) Information](https://www.usu.edu/covid-19/)
+* [Utah Valley University](https://www.uvu.edu/)
+  * [UVU Emergency Information](https://www.uvu.info/)
+* [Westminster College](https://westminstercollege.edu/)
+  * [Coronavirus (COVID-19) Resources](https://westminstercollege.edu/about/resources/risk-management/emergency-notifications/coronavirus)
+
+## K-12 School Districts
 
 * [Alpine](https://alpineschools.org)
 * [Beaver](https://www.beaver.k12.ut.us)
