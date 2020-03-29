@@ -35,63 +35,63 @@
 ## States and Territories
 
 * American Samoa
-* Alabama
-* Alaska
-* Arizona
-* Arkansas
+* [Alabama](alabama.md)
+* [Alaska](alaska.md)
+* [Arizona](arizona.md)
+* [Arkansas](arkansas.md)
 * [California](california.md)
 * [Colorado](colorado.md)
-* Connecticut
-* Delaware
-* Florida
-* Georgia
+* [Connecticut](connecticut.md)
+* [Delaware](delaware.md)
+* [Florida](florida.md)
+* [Georgia](georgia.md)
 * Guam
 * [Hawaii](hawaii.md)
 * [Idaho](idaho.md)
-* Illinois
-* Indiana
-* Iowa
-* Kansas
-* Kentucky
-* Louisiana
-* Maine
-* Maryland
-* Massachusetts
-* Michigan
-* Minnesota
-* Mississippi
-* Missouri
-* Montana
-* Nebraska
+* [Illinois](illinois.md)
+* [Indiana](indiana.md)
+* [Iowa](iowa.md)
+* [Kansas](kansas.md)
+* [Kentucky](kentucky.md)
+* [Louisiana](louisiana.md)
+* [Maine](maine.md)
+* [Maryland](maryland.md)
+* [Massachusetts](massachusetts.md)
+* [Michigan](michigan.md)
+* [Minnesota](minnesota.md)
+* [Mississippi](mississippi.md)
+* [Missouri](missouri.md)
+* [Montana](montana.md)
+* [Nebraska](nebraska.md)
 * [Nevada](nevada.md)
-* New Hampshire
-* New Jersey
-* New Mexico
+* [New Hampshire](new-hampshire.md)
+* [New Jersey](new-jersey.md)
+* [New Mexico](new-mexico.md)
 * [New York](new-york.md)
-* North Carolina
-* North Dakota
+* [North Carolina](north-carolina.md)
+* [North Dakota](north-dakota.md)
 * Northern Mariana Islands
-* Ohio
-* Oklahoma
-* Oregon
-* Pennsylvania
+* [Ohio](ohio.md)
+* [Oklahoma](oklahoma.md)
+* [Oregon](oregon.md)
+* [Pennsylvania](pennsylvania.md)
 * Puerto Rico
-* Rhode Island
-* South Carolina
-* South Dakota
-* Tennessee
-* Texas
+* [Rhode Island](rhode-island.md)
+* [South Carolina](south-carolina.md)
+* [South Dakota](south-dakota.md)
+* [Tennessee](tennessee.md)
+* [Texas](texas.md)
 * [Utah](utah.md)
-* Vermont
+* [Vermont](vermont.md)
 * Virgin Islands (U.S.)
-* Virginia
-* Washington
-* Washington D.C.
-* West Virginia
-* Wisconsin
-* Wyoming
+* [Virginia](virginia.md)
+* [Washington](washington.md)
+* [Washington D.C.](washington-dc.md)
+* [West Virginia](west-virginia.md)
+* [Wisconsin](wisconsin.md)
+* [Wyoming](wyoming.md)
 
-### Stay at Home Orders
+### Stay at Home Orders by State
 
 | State | Start Date | Tentative End Date | Actual End Date |
 |---|---|---|---|
