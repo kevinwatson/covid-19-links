@@ -142,13 +142,13 @@
 | Tennessee | | | |
 | Texas | | | |
 | [Utah](https://drive.google.com/file/d/1Qey2xIxAEqIxiiAHJyHSxBosmjetkbN7/view) | 3/27/2020 | 4/13/2020 | |
-| [Vermont](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) | 3/24/2020 | 4/15/2020 | |
+| [Vermont](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) | 3/25/2020 | 4/15/2020 | |
 | Virgin Islands (U.S.) | | | |
 | Virginia | | | |
 | [Washington](https://www.governor.wa.gov/sites/default/files/proclamations/20-25%20Coronovirus%20Stay%20Safe-Stay%20Healthy%20%28tmp%29%20%28002%29.pdf) | 3/23/2020 | 4/6/2020 | |
 | Washington D.C. | | | |
 | [West Virginia](https://coronavirus-wvgovstatus-cdn.azureedge.net/STAY_AT_HOME_ORDER.pdf) | 3/24/2020 | Unspecified | |
-| Wisconsin | | | |
+| [Wisconsin](https://content.govdelivery.com/attachments/WIGOV/2020/03/24/file_attachments/1409408/Health%20Order%20%2312%20Safer%20At%20Home.pdf) | 3/25/2020 | 4/24/2020 | |
 | Wyoming | | | |
 
 [<< Back to Home](../README.md)
