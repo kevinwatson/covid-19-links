@@ -3,5 +3,6 @@
 ## State Government
 
 * [New Hampshire](https://www.nh.gov/
-https://www.nh.gov/covid19/
+  * [New Hampshire Department of Health and Human Services COVID-19](https://www.nh.gov/covid19/)
+
 [<< Back](README.md)
