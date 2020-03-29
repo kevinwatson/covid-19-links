@@ -141,7 +141,7 @@
 | South Dakota | | | |
 | Tennessee | | | |
 | Texas | | | |
-| [Utah](utah.md) | | | |
+| [Utah](https://drive.google.com/file/d/1Qey2xIxAEqIxiiAHJyHSxBosmjetkbN7/view) | 3/27/2020 | 4/13/2020 | |
 | [Vermont](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) | 3/24/2020 | 4/15/2020 | |
 | Virgin Islands (U.S.) | | | |
 | Virginia | | | |
