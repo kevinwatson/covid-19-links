@@ -34,9 +34,9 @@
 
 ## States and Territories
 
-* American Samoa
 * [Alabama](alabama.md)
 * [Alaska](alaska.md)
+* [American Samoa](american-samoa.md)
 * [Arizona](arizona.md)
 * [Arkansas](arkansas.md)
 * [California](california.md)
@@ -45,7 +45,7 @@
 * [Delaware](delaware.md)
 * [Florida](florida.md)
 * [Georgia](georgia.md)
-* Guam
+* [Guam](guam.md)
 * [Hawaii](hawaii.md)
 * [Idaho](idaho.md)
 * [Illinois](illinois.md)
@@ -70,12 +70,12 @@
 * [New York](new-york.md)
 * [North Carolina](north-carolina.md)
 * [North Dakota](north-dakota.md)
-* Northern Mariana Islands
+* [Northern Mariana Islands](northern-mariana-islands.md)
 * [Ohio](ohio.md)
 * [Oklahoma](oklahoma.md)
 * [Oregon](oregon.md)
 * [Pennsylvania](pennsylvania.md)
-* Puerto Rico
+* [Puerto Rico](puerto-rico.md)
 * [Rhode Island](rhode-island.md)
 * [South Carolina](south-carolina.md)
 * [South Dakota](south-dakota.md)
@@ -83,7 +83,7 @@
 * [Texas](texas.md)
 * [Utah](utah.md)
 * [Vermont](vermont.md)
-* Virgin Islands (U.S.)
+* [Virgin Islands (U.S.)](virgin-islands-us.md)
 * [Virginia](virginia.md)
 * [Washington](washington.md)
 * [Washington D.C.](washington-dc.md)
