@@ -4,18 +4,23 @@
 
 * [Cities](utah.md#cities)
 * [Counties](utah.md#counties)
-* [Higher Education](utah.md#higher-education)
-* [K-12 School Districts](utah.md#k-12-school-districts)
+* [Schools](utah.md#schools)
 * [State Government](utah.md#state-government)
 
 ## Cities
 
+* [American Fork](https://afcity.org/)
+  * [Coronavirus (COVID-19) Updates](https://afcity.org/coronavirus)
 * [Bountiful](https://www.bountifulutah.gov/)
   * [Bountiful City Response to COVID-19](https://www.bountifulutah.gov/file/702cd7a4-ded8-4246-a34c-694e828d9c11)
+* [Cedar City](https://www.cedarcity.org/)
+  * [Coronavirus (COVID-19) Cedar City Updates](https://cedarcity.org/CivicAlerts.aspx?AID=561)
 * [Draper](https://www.draper.ut.us/)
 * [Lehi](https://www.lehi-ut.gov/)
   * [Coronavirus Updates](https://www.lehi-ut.gov/coronavirus-updates/)
 * [Murray](https://www.murray.utah.gov/)
+* [Ogden](https://www.ogdencity.com/)
+  * [Coronavirus Community Update](https://www.ogdencity.com/1649/Coronavirus-Community-Update)
 * [Provo](https://www.provo.org/)
   * [Community Safety Plan for COVID-19](https://www.provo.org/city-services/covid19)
 * [Salt Lake City](https://www.slc.gov/)
@@ -23,6 +28,8 @@
   * [Proclamation Of Local Emergency](https://www.slc.gov/mayor/proclamation-of-local-emergency/)
 * [Sandy](https://www.sandy.utah.gov/)
   * [Coronavirus Updates](https://www.sandy.utah.gov/departments/emergency-management/coronavirus)
+* [St. George](https://www.sgcity.org/)
+  * [City of St. George COVID-19 Hub](https://city-of-st-george-coronavirus-response-sgcity.hub.arcgis.com/)
 * [West Valley City](https://www.wvc-ut.gov/)
   * [COVID-19 Preparation and Information](https://www.wvc-ut.gov/1787/COVID-19)
 
@@ -66,26 +73,24 @@ Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Publi
 * Wayne
 * Weber
 
-## Higher Education
+## Schools
 
-* [Brigham Young University](https://www.byu.edu/)
-  * [Coronavirus (COVID-19) Updates](https://www.byu.edu/coronavirus)
-* [Dixie State University](https://dixie.edu/)
-  * [DSU'S COVID-19 Response Plan](https://wellness.dixie.edu/coronavirus-information/)
-* [Salt Lake Community College](http://www.slcc.edu/)
-  * [Coronavirus (COVID-19) Updates](http://www.slcc.edu/safe/c19.aspx)
-* [Snow College](https://www.snow.edu/)
-  * [COVID-19 (novel coronavirus) Information](https://www.snow.edu/offices/safety/coronavirus/index.html)
-* [University of Utah](https://www.utah.edu/)
-  * [COVID-19 Central @TheU](https://coronavirus.utah.edu/)
-* [Utah State University](https://www.usu.edu/)
-  * [Coronavirus (COVID-19) Information](https://www.usu.edu/covid-19/)
-* [Utah Valley University](https://www.uvu.edu/)
-  * [UVU Emergency Information](https://www.uvu.info/)
-* [Westminster College](https://westminstercollege.edu/)
-  * [Coronavirus (COVID-19) Resources](https://westminstercollege.edu/about/resources/risk-management/emergency-notifications/coronavirus)
+### Higher Education
 
-## K-12 School Districts
+| School | COVID-19 Link | Graduation Postponed/Canceled |
+|---|---|---|
+| [Brigham Young University](https://www.byu.edu/) | [Coronavirus (COVID-19) Updates](https://www.byu.edu/coronavirus) | [Canceled](https://enrollment.byu.edu/registrar/commencement) |
+| [Dixie State University](https://dixie.edu/) | [DSU'S COVID-19 Response Plan](https://wellness.dixie.edu/coronavirus-information/) | [Postponed](https://dixie.edu/commencement/) |
+| [Salt Lake Community College](https://www.slcc.edu/) | [Coronavirus (COVID-19) Updates](https://www.slcc.edu/safe/c19.aspx) | [Postponed](https://www.slcc.edu/commencement/index.aspx) |
+| [Snow College](https://www.snow.edu/) | [COVID-19 (novel coronavirus) Information](https://www.snow.edu/offices/safety/coronavirus/index.html) | |
+| [Southern Utah University](https://www.suu.edu/) | [Campus Health Notice: Coronavirus](https://www.suu.edu/news/2020/02/coronavirus-health-notice.html) | [Postponed](https://www.suu.edu/news/2020/03/campus-update-commencement.html) |
+| [University of Utah](https://www.utah.edu/) | [COVID-19 Central @TheU](https://coronavirus.utah.edu/) | [Postponed](https://attheu.utah.edu/facultystaff/commencement-postponed-due-to-covid-19/) |
+| [Utah State University](https://www.usu.edu/) | [Coronavirus (COVID-19) Information](https://www.usu.edu/covid-19/) | [Postponed until August 28-29, 2020](http://www.usu.edu/today/story/usu-cancels-commencement-ceremonies-amid-coronavirus-pandemic) |
+| [Utah Valley University](https://www.uvu.edu/) | [UVU Emergency Information](https://www.uvu.info/) | [Postponed](https://www.uvu.info/2020/03/covid-19-commencement-study-abroad-and.html) |
+| [Weber State University](https://www.weber.edu/) | [WSU Update COVID-19 (Coronavirus)](https://www.weber.edu/coronavirus/default.html) | [Postponed](https://www.weber.edu/WSUToday/031820_CommencementPostponed.html) |
+| [Westminster College](https://westminstercollege.edu/) | [Coronavirus (COVID-19) Resources](https://westminstercollege.edu/about/resources/risk-management/emergency-notifications/coronavirus) | [Postponed](https://westminstercollege.edu/about/resources/commencement) |
+
+### K-12 School Districts
 
 * [Alpine](https://alpineschools.org)
 * [Beaver](https://www.beaver.k12.ut.us)
@@ -121,6 +126,13 @@ Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Publi
 * [Washington County](https://www.washk12.org)
 * [Wayne](https://www.waynesd.org)
 * [Weber](https://wsd.net)
+
+### State Education Agencies
+
+* [Utah State Board of Education](https://www.schools.utah.gov/)
+  * [Novel Coronavirus (COVID-19) Information and Resources](https://www.schools.utah.gov/coronavirus)
+* [Utah System of Higher Education](https://ushe.edu/)
+  * [USHE COVID-19 Updates](https://ushe.edu/ushe-covid-19/)
 
 ## State Government
 
