@@ -28,6 +28,9 @@
 
 * [Centers for Disease Control and Prevention](https://www.cdc.gov/)
 * [Coronavirus.Gov](https://www.coronavirus.gov/)
+* [Department of Health & Human Services](https://www.hhs.gov/)
+  * [Coronavirus 2019 (COVID-19) Updates](https://www.hhs.gov/about/news/coronavirus/index.html)
+  * [HIPAA, Civil Rights, and COVID-19](https://www.hhs.gov/hipaa/for-professionals/special-topics/hipaa-covid19/index.html)
 * [Department of Homeland Security](https://www.dhs.gov/)
 * [Department of the Treasury](https://home.treasury.gov/)
   * [How the Treasury Department is Taking Action](https://home.treasury.gov/cares)
@@ -39,6 +42,10 @@
 * [Internal Revenue Service](https://www.irs.gov/)
   * [Coronavirus](https://www.irs.gov/coronavirus)
   * [Economic impact payments: What you need to know](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
+* [Office of the National Coordinator for Health Information Technology (ONC)](https://www.healthit.gov/)
+  * [COVID-19 Projects](https://www.healthit.gov/techlab/ipg/?tag=COVID-19)
+* [Small Business Administration](https://www.sba.gov/)
+  * [COVID-19 Economic Injury Disaster Loan Application](https://covid19relief.sba.gov/)
 
 ## Legislative Bills
 
