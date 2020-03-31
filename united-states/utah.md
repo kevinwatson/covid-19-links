@@ -98,7 +98,7 @@ Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Publi
 * [Garfield](https://www.garfk12.org)
 * [Granite](https://www.graniteschools.org)
 * [Iron](https://irondistrict.org)
-* [Jordan](http://planning.jordandistrict.org)
+* [Jordan](https://jordandistrict.org/)
 * [Juab](https://www.juabsd.org)
 * [Kane](https://kanek12.org)
 * [Logan](https://www.loganschools.org)
