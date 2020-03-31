@@ -4,7 +4,7 @@
 
 #### Economic Impact Payments (Tax Rebates to Individuals) Summary
 
-* Individuals should see their payments sometime around mid-end April 2020
+* Individuals should see their payments mid-end April 2020
 * The total amount is based on the individual's adjusted gross income for 2019 (2018 if the individual has not yet filed taxes for 2019)
 * Funds will be directly deposited to the bank account that the individual provided in the most recent filing
   * If no direct deposit information was provided, a website will be provided soon to submit direct deposit information
