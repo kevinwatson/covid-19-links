@@ -1,5 +1,18 @@
 # United States of America
 
+### Hot Topics
+
+#### Economic Impact Payments (Tax Rebates to Individuals) Summary
+
+* Individuals should see their payments sometime around mid-end April 2020
+* The total amount is based on the individual's adjusted gross income for 2019 (2018 if the individual has not yet filed taxes for 2019)
+* Funds will be directly deposited to the bank account that the individual provided in the most recent filing
+  * If no direct deposit information was provided, a website will be provided soon to submit direct deposit information
+* Individuals who do not typically file their taxes will need to file a simple return
+* The deadline to file and receive a payment is the end of 2020
+
+[Source: Economic impact payments: What you need to know](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
+
 ### Shortcuts
 
 * [Federal Departments and Agencies](README.md#federal-departments-and-agencies)
