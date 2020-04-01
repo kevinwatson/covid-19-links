@@ -16,6 +16,7 @@
 * [Cedar City](https://www.cedarcity.org/)
   * [Coronavirus (COVID-19) Cedar City Updates](https://cedarcity.org/CivicAlerts.aspx?AID=561)
 * [Draper](https://www.draper.ut.us/)
+  * [COVID-19](https://www.draper.ut.us/1556/COVID-19)
 * [Lehi](https://www.lehi-ut.gov/)
   * [Coronavirus Updates](https://www.lehi-ut.gov/coronavirus-updates/)
 * [Murray](https://www.murray.utah.gov/)
@@ -54,6 +55,7 @@
 * Rich
 * [Salt Lake](https://slco.org/)
   * [Coronavirus Disease 2019 (COVID-19)](https://slco.org/covid-19/)
+  * [Public Health Order: March 29-April 14](https://slco.org/health/COVID-19/business/)
 * San Juan
 * Sanpete
 * Sevier
