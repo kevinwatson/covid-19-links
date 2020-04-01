@@ -22,7 +22,7 @@
 
 #### Keep Americans Connected
 
-* Don't terminate Internet services because of the the inability to pay
+* Don't terminate Internet services due to the inability to pay
 * Waive late fees for Internet service
 * Open Wi-Fi hotspots
 * Relax data usage limits to promote telehealth and remote learning
