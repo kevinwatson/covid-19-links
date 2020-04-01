@@ -13,6 +13,22 @@
 
 [Source: www.irs.gov - Economic impact payments: What you need to know](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
 
+#### IRS Income tax Filing and Payment Deadlines
+
+* All taxpayers who file and pay their Federal income taxes on April 15 the due date has been extended until July 15, 2020
+* Individuals may still need to file their state taxes by April 15 - check your state here: [State Tax Agencies](https://www.taxadmin.org/state-tax-agencies)
+
+[Source: www.irs.gov - Filing and Payment Deadline Extended to July 15, 2020 - Updated Statement](https://www.irs.gov/newsroom/payment-deadline-extended-to-july-15-2020)
+
+#### Keep Americans Connected
+
+* Don't terminate Internet services because of the the inability to pay
+* Waive late fees for Internet service
+* Open Wi-Fi hotspots
+* Relax data usage limits to promote telehealth and remote learning
+
+[Source: www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americans-connected)
+
 ### Shortcuts
 
 * [Federal Departments and Agencies](README.md#federal-departments-and-agencies)
@@ -27,7 +43,7 @@
 ### Department and Agency Websites
 
 * [Centers for Disease Control and Prevention](https://www.cdc.gov/)
-* [Coronavirus.Gov](https://www.coronavirus.gov/)
+* [Coronavirus.gov](https://www.coronavirus.gov/)
 * [Department of Health & Human Services](https://www.hhs.gov/)
   * [Coronavirus 2019 (COVID-19) Updates](https://www.hhs.gov/about/news/coronavirus/index.html)
   * [HIPAA, Civil Rights, and COVID-19](https://www.hhs.gov/hipaa/for-professionals/special-topics/hipaa-covid19/index.html)
