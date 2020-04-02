@@ -144,7 +144,7 @@
 | [Colorado](https://drive.google.com/file/d/1O1EDCY6-A6QBKxzDImCSF8bBBdOOI3Km/view) | 3/26/2020 | 4/11/2020 | |
 | [Connecticut](https://portal.ct.gov/-/media/Office-of-the-Governor/Executive-Orders/Lamont-Executive-Orders/Executive-Order-No-7H.pdf?la=en) | 3/23/2020 | 4/22/2002 | |
 | [Delaware](https://news.delaware.gov/2020/03/22/governor-carney-issues-stay-at-home-order-for-delawareans/) | 3/24/2020 | 5/15/2020 | |
-| Florida | | | |
+| [Florida](https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-91-compressed.pdf) | 4/3/2020 | 4/30/2020 | |
 | Georgia | | | |
 | Guam | | | |
 | [Hawaii](https://hawaiicovid19.com/wp-content/uploads/2020/03/2003162-ATG_Third-Supplementary-Proclamation-for-COVID-19-signed-12.pdf) | 3/25/2020 | 4/30/2020 | |
