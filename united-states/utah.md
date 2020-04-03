@@ -4,6 +4,7 @@
 
 * [Cities](utah.md#cities)
 * [Counties](utah.md#counties)
+* [Regional Information](utah.md#regional-information)
 * [Schools](utah.md#schools)
 * [State Government](utah.md#state-government)
 
@@ -36,44 +37,55 @@
 
 ## Counties
 
-* Beaver
-* Box Elder
-* Cache
-* Carbon
-* Daggett
-* Davis
-* Duchesne
-* Emery
-* Garfield
-* Grand
-* Iron
-* Juab
-* Kane
-* Millard
-* Morgan
-* Piute
-* Rich
+* [Beaver](https://beaver.utah.gov/)
+* [Box Elder](http://www.boxeldercounty.org/)
+* [Cache](https://www.cachecounty.org/)
+* [Carbon](https://www.carbon.utah.gov/)
+* [Daggett](https://www.daggettcounty.org/)
+  * [COVID-19 Update](https://www.daggettcounty.org/AlertCenter.aspx?AID=Daggett-County-updating-precautions-to-h-5)
+* [Davis](https://www.daviscountyutah.gov/)
+  * [Davis County Coronavirus (COVID-19)](https://www.daviscountyutah.gov/health/covid-19)
+* [Duchesne](https://www.duchesne.utah.gov/)
+* [Emery](http://www.emerycounty.com/)
+* [Garfield](https://www.garfield.utah.gov/)
+* [Grand](https://www.grandcountyutah.net/)
+* [Iron](https://www.ironcounty.net/)
+  * [Iron County COVID-19 Updates](https://covid19.ironcounty.net/)
+* [Juab](http://www.co.juab.ut.us/)
+* [Kane](https://www.countyofkane.org/Pages/default.aspx)
+* [Millard](https://www.millardcounty.org/)
+* [Morgan](http://www.morgan-county.net/)
+* [Piute](http://www.piute.org/)
+* [Rich](https://www.richcountyut.org/)
 * [Salt Lake](https://slco.org/)
   * [Coronavirus Disease 2019 (COVID-19)](https://slco.org/covid-19/)
   * [Public Health Order: March 29-April 14](https://slco.org/health/COVID-19/business/)
-* San Juan
-* Sanpete
-* Sevier
+* [San Juan](https://sanjuancounty.org/)
+* [Sanpete](https://sanpete.com/)
+* [Sevier](https://www.sevierutah.net/)
 * [Summit](https://www.summitcounty.org/)
   * [Coronavirus (COVID-19) Updates](https://www.summitcounty.org/1129/CoronaVirus-Updates)
-  * [Joint Public Health Order
-Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Public-Health-Order-2020-03-FINAL)
+  * [Joint Public Health Order Stay-at-Home](https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Public-Health-Order-2020-03-FINAL)
   * [Summit County - Twitter](https://twitter.com/SummitCountyUT)
   * [Summit County Sheriff's Office](https://www.summitcountysheriff.org)
   * [Summit County Sheriff's Office - Twitter](https://twitter.com/SummitCountySO)
-* Tooele
-* Uintah
+* [Tooele](https://tooeleco.org/)
+  * [CORONAVIRUS COVID-19](https://tooelehealth.org/coronavirus-disease-2019/)
+* [Uintah](https://co.uintah.ut.us/)
 * [Utah](http://www.utahcounty.gov)
   * [Coronavirus Disease 2019 (COVID-19)](http://www.utahcounty.gov/covid19/index.asp)
-* Wasatch
-* Washington
-* Wayne
-* Weber
+* [Wasatch](https://www.wasatch.utah.gov/)
+  * [Public Health Order](http://coronavirus.wasatch.utah.gov/Portals/9/Signed%20copy%20of%20stay%20at%20home%20order%203_30_2020.pdf)
+* [Washington](https://www.washco.utah.gov/)
+* [Wayne](http://www.waynecountyutah.org/)
+  * [Wayne County COVID – 19 Information](http://www.waynecountyutah.org/wayne-county-covid-19-information/)
+* [Weber](http://www.webercountyutah.gov/)
+  * [COVID-19 Web Resources](http://www.webercountyutah.gov/covid-19/)
+
+## Regional Information
+
+* [Southwest Utah Public Health Department (Serving Beaver, Garfield, Iron, Kane and Washington counties)](https://swuhealth.org/)
+  * [COVID-19 (New Coronavirus)](https://swuhealth.org/covid/)
 
 ## Schools
 
