@@ -150,7 +150,6 @@
 
 ## State Government
 
-* [Utah](https://www.utah.gov)
 * [Coronavirus.Utah.Gov](https://coronavirus.utah.gov)
   * [Governor’s "Stay Home, Stay Safe" Directive](https://coronavirus.utah.gov/full-text-governors-stay-home-stay-safe-directive/)
   * [The Governor’s Coronavirus Directive For Utah FAQs PDF](https://coronavirus.utah.gov/wp-content/uploads/Stay_Home_Directive_FAQs.pdf)
@@ -160,5 +159,6 @@
 * [Utah Department of Health](https://health.utah.gov)
 * [Utah Leads Together Plan](https://issuu.com/goed/docs/utah-leads-together-plan)
 * [Utah Leads Together Plan - Summary](https://issuu.com/goed/docs/utah-leads-together-plan-summary)
+* [Utah.gov](https://www.utah.gov)
 
 [<< Back](README.md)
