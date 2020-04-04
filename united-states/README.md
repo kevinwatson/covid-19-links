@@ -135,7 +135,7 @@
 ### Stay at Home Orders by State
 
 | State | Type | Start Date | Tentative End Date | Actual End Date |
-|---|---|---|---|
+|---|---|---|---|---|
 | American Samoa | | | | |
 | [Alaska](https://gov.alaska.gov/home/covid19-healthmandates/) | Health Mandate | 3/28/2020 | 4/11/2020 | |
 | [Arizona](https://azgovernor.gov/governor/news/2020/03/new-executive-order-stay-home-stay-healthy-stay-connected) | Executive Order | 3/31/2020 | 4/30/2020 | |
