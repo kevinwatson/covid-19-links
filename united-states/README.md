@@ -73,6 +73,67 @@
   * [NPS Public Health Update](https://www.nps.gov/aboutus/news/public-health-update.htm)
   * [Find a Park](https://www.nps.gov/findapark/index.htm)
 
+## K-12 School Closures by State
+
+| State | Links | Type | Start Date | Tentative End Date | Actual End Date |
+|---|---|---|---|
+| Alabama | [1](https://www.alsde.edu/COVID19%20Updates/4thSupplementalStateofEmergencyCOVID-19.pdf) [2](https://www.alsde.edu/covid-19) | Online instruction | 3/19/2020 | 4/30/2020 |
+| Alaska | [1](https://education.alaska.gov/safeschools/infectiousdisease) [2](https://education.alaska.gov/Media/Default/news/pdf/3-20-2020DEEDCOVID-19MemoreStatewideSchoolClosurePreapproval.pdf) | Online instruction | 3/16/2020 | 5/1/2020 |
+| American Samoa | [1](https://www.doe.as/) | | 3/23/2020 | 30 days |
+| Arizona | [1](https://www.azed.gov/communications/2020/03/10/guidance-to-schools-on-covid-19/) [2](https://www.azed.gov/communications/files/2020/03/HB-2910-Emergency-Legislation-Overview.pdf)| Online instruction | 3/15/2020 | End of school year |
+| Arkansas
+| California
+| Colorado
+| Connecticut
+| Delaware
+| Florida
+| Georgia
+| Guam
+| Hawaii
+| Idaho
+| Illinois
+| Indiana | [1](https://www.doe.in.gov/covid-19) | Online instruction | 4/20/2020 | 5/1/2020 |
+| Iowa
+| Kansas
+| Kentucky
+| Louisiana
+| Maine
+| Maryland
+| Massachusetts
+| Michigan
+| Minnesota
+| Mississippi
+| Missouri
+| Montana
+| Nebraska
+| Nevada
+| New Hampshire
+| New Jersey
+| New Mexico
+| New York | [1](http://www.nysed.gov/) | Online instruction | | 4/15/2020 |
+| North Carolina
+| North Dakota
+| Northern Mariana Islands
+| Ohio
+| Oklahoma
+| Oregon
+| Pennsylvania
+| Puerto Rico
+| Rhode Island
+| South Carolina
+| South Dakota
+| Tennessee
+| Texas
+| Utah | [1](https://governor.utah.gov/2020/03/24/state-issues-extension-on-k-12-and-technical-college-dismissal/) | Online instruction | 3/16/2020 | 5/1/2020 |
+| Vermont
+| Virgin Islands (U.S.)
+| Virginia
+| Washington
+| Washington D.C.
+| West Virginia
+| Wisconsin
+| Wyoming
+
 ## States and Territories
 
 * [Alabama](alabama.md)
