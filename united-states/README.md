@@ -34,6 +34,7 @@
 * [Federal Departments and Agencies](README.md#federal-departments-and-agencies)
 * [Legislative Bills](README.md#legislative-bills)
 * [National Parks](README.md#national-parks)
+* [Schools](README.md#schools)
 * [States and Territories](README.md#states-and-territories)
 
 ## Federal Departments and Agencies
@@ -73,7 +74,9 @@
   * [NPS Public Health Update](https://www.nps.gov/aboutus/news/public-health-update.htm)
   * [Find a Park](https://www.nps.gov/findapark/index.htm)
 
-## K-12 School Closures by State
+## Schools
+
+### K-12 School Closures by State
 
 | State | Links | Action | Start Date | Tentative End Date | Actual End Date |
 |---|---|---|---|---|---|
