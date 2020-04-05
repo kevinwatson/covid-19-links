@@ -84,8 +84,8 @@
 | Alaska | [1](https://education.alaska.gov/safeschools/infectiousdisease) [2](https://education.alaska.gov/Media/Default/news/pdf/3-20-2020DEEDCOVID-19MemoreStatewideSchoolClosurePreapproval.pdf) | Online instruction | 3/16/2020 | 5/1/2020 |
 | American Samoa | [1](https://www.doe.as/) | | 3/23/2020 | 30 days |
 | Arizona | [1](https://www.azed.gov/communications/2020/03/10/guidance-to-schools-on-covid-19/) [2](https://www.azed.gov/communications/files/2020/03/HB-2910-Emergency-Legislation-Overview.pdf)| Online instruction | 3/15/2020 | End of school year |
-| Arkansas
-| California
+| Arkansas | [1](http://dese.ade.arkansas.gov/divisions/communications/covid-19-information) | Online instruction | 3/16/2020 | 4/17/2020 |
+| California | [1](https://www.gov.ca.gov/2020/03/13/governor-newsom-signs-executive-order-ensuring-state-funding-for-schools-even-in-event-of-physical-closure/) | 3/13/2020 |
 | Colorado
 | Connecticut
 | Delaware
