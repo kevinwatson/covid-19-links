@@ -45,6 +45,7 @@
   * [COVID-19 Update](https://www.daggettcounty.org/AlertCenter.aspx?AID=Daggett-County-updating-precautions-to-h-5)
 * [Davis](https://www.daviscountyutah.gov/)
   * [Davis County Coronavirus (COVID-19)](https://www.daviscountyutah.gov/health/covid-19)
+  * [Davis: Stay Safe, Stay Home Public Health Order](http://www.co.davis.ut.us/docs/librariesprovider5/covid-19/public-health-order-4-1-20/public-health-order-april-1-2020.pdf)
 * [Duchesne](https://www.duchesne.utah.gov/)
 * [Emery](http://www.emerycounty.com/)
 * [Garfield](https://www.garfield.utah.gov/)
