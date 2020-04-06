@@ -75,6 +75,7 @@
 * [Uintah](https://co.uintah.ut.us/)
 * [Utah](http://www.utahcounty.gov)
   * [Coronavirus Disease 2019 (COVID-19)](http://www.utahcounty.gov/covid19/index.asp)
+  * [Public Health Orders](https://health.utahcounty.gov/2020/03/31/public-health-orders/)
 * [Wasatch](https://www.wasatch.utah.gov/)
   * [Public Health Order](http://coronavirus.wasatch.utah.gov/Portals/9/Signed%20copy%20of%20stay%20at%20home%20order%203_30_2020.pdf)
 * [Washington](https://www.washco.utah.gov/)
