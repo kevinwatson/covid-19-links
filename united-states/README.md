@@ -11,14 +11,14 @@
 * Individuals who do not typically file their taxes will need to file a simple return
 * The deadline to file and receive a payment is the end of 2020
 
-[Source: www.irs.gov - Economic impact payments: What you need to know](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
+Source: [www.irs.gov - Economic impact payments: What you need to know(https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
 
 #### IRS Income tax Filing and Payment Deadlines
 
 * All taxpayers who file and pay their Federal income taxes on April 15 the due date has been extended until July 15, 2020
 * Individuals may still need to file their state taxes by April 15 - check your state here: [State Tax Agencies](https://www.taxadmin.org/state-tax-agencies)
 
-[Source: www.irs.gov - Filing and Payment Deadline Extended to July 15, 2020 - Updated Statement](https://www.irs.gov/newsroom/payment-deadline-extended-to-july-15-2020)
+Source: [www.irs.gov - Filing and Payment Deadline Extended to July 15, 2020 - Updated Statement](https://www.irs.gov/newsroom/payment-deadline-extended-to-july-15-2020)
 
 #### Keep Americans Connected
 
@@ -27,7 +27,7 @@
 * Open Wi-Fi hotspots
 * Relax data usage limits to promote telehealth and remote learning
 
-[Source: www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americans-connected)
+Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americans-connected)
 
 ### Shortcuts
 
