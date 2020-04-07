@@ -96,7 +96,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Idaho
 | Illinois | [1](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | | | 4/30/2020 |
 | Indiana | [1](https://www.doe.in.gov/covid-19) | Online instruction | 4/20/2020 | 5/1/2020 |
-| Iowa
+| Iowa | [1](https://governor.iowa.gov/sites/default/files/documents/Public%20Health%20Disaster%20Proclamation%20-%202020.04.02.pdf) | | | 4/30/2020 |
 | Kansas
 | Kentucky
 | Louisiana
