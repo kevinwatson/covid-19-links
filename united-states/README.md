@@ -106,7 +106,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Michigan
 | Minnesota
 | Mississippi
-| Missouri
+| Missouri | [1](https://dese.mo.gov/communications/coronavirus-covid-19-information) | | | 4/24/2020 |
 | Montana
 | Nebraska
 | Nevada
@@ -226,7 +226,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Michigan | [1](https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-522626--,00.html) | Executive Order | 3/24/2020 | 4/13/2020 | |
 | Minnesota | [1](https://mn.gov/governor/assets/3a.%20EO%2020-20%20FINAL%20SIGNED%20Filed_tcm1055-425020.pdf) | Executive Order | 3/27/2020 | 4/10/2020 | |
 | Mississippi | [1](https://www.sos.ms.gov/Education-Publications/ExecutiveOrders/1466.pdf) | Executive Order | 4/3/2020 | 4/20/2020 | |
-| Missouri |
+| Missouri | [1](https://governor.mo.gov/press-releases/archive/governor-parson-issues-statewide-stay-home-missouri-order-control-contain) [2](https://governor.mo.gov/priorities/stay-home-order) | Department of Health Order | 4/6/2020 | 4/24/2020 |
 | Montana | [1](https://covid19.mt.gov/Portals/223/Documents/Stay%20at%20Home%20Directive.pdf?ver=2020-03-26-173332-177) | Directive | 3/28/2020 | 4/10/2020 | |
 | Nebraska |
 | Nevada |  [1](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/04/Declaration-of-Emergency-Directive-010-Stay-at-Home-3-31-20.pdf) | Emergency Directive | 4/1/2020 | 4/30/2020 | |
