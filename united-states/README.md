@@ -135,7 +135,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Washington D.C.
 | West Virginia
 | Wisconsin
-| Wyoming
+| Wyoming | [1](https://edu.wyoming.gov/educators/covid-19-resources/) [2](https://edu.wyoming.gov/blog/2020/04/03/superintendent-balows-statement-on-school-closure-extension/) | | | 4/30/2020 |
 
 ## States and Territories
 
