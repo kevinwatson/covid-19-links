@@ -90,7 +90,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Connecticut
 | Delaware
 | Florida
-| Georgia
+| Georgia | [1](https://www.georgiainsights.com/coronavirus.html) | | | End of school year |
 | Guam
 | Hawaii
 | Idaho
@@ -210,7 +210,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Connecticut |  [1](https://portal.ct.gov/-/media/Office-of-the-Governor/Executive-Orders/Lamont-Executive-Orders/Executive-Order-No-7H.pdf?la=en) | Executive Order | 3/23/2020 | 4/22/2002 | |
 | Delaware | [1](https://governor.delaware.gov/health-soe/ninth-state-of-emergency/) | Emergency Declaration | 3/24/2020 | 5/15/2020 | |
 | Florida | [1](https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-91-compressed.pdf) | Executive Order | 4/3/2020 | 4/30/2020 | |
-| Georgia |
+| Georgia | [1](https://gov.georgia.gov/press-releases/2020-04-02/governor-kemp-issues-shelter-place-order) | Executive Order | 4/3/2020 | 4/13/2020 |
 | Guam |
 | Hawaii | [1](https://hawaiicovid19.com/wp-content/uploads/2020/03/2003162-ATG_Third-Supplementary-Proclamation-for-COVID-19-signed-12.pdf) | Proclamation | 3/25/2020 | 4/30/2020 | |
 | Idaho | [1](https://coronavirus.idaho.gov/wp-content/uploads/sites/127/2020/04/statewide-stay-home-order_040220.pdf) | Department or Health Order | 3/25/2020 | 4/15/2020 | |
