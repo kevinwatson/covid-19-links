@@ -240,7 +240,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Ohio |  [1](https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf) | Dept of Health Director's Order | 3/23/2020 | 5/1/2020 | |
 | Oklahoma | [1](https://www.sos.ok.gov/documents/executive/1915.pdf) | Executive Order | 3/17/2020 | 30 days |
 | Oregon | [1](https://www.oregon.gov/gov/Documents/executive_orders/eo_20-12.pdf) | Executive Order | 3/23/2020 | Unspecified | |
-| Pennsylvania | [1](http://www.governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) | Executive Order | 3/23/2020 | 4/13/2020 | |
+| Pennsylvania | [1](http://www.governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) [2](https://www.governor.pa.gov/wp-content/uploads/2020/04/20200401-GOV-Statewide-Stay-at-Home-Order.pdf) | Executive Order | 3/23/2020 | 4/30/2020 | |
 | Puerto Rico |  [1](https://www.scribd.com/document/451785912/Orden-ejecutiva-de-la-gobernadora-para-combatir-el-coronavirus#from_embed) | Executive Order | 3/30/2020 | Unspecified | |
 | Rhode Island | [1](http://governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) | Executive Order | 3/28/2020 | 4/13/2020 | |
 | South Carolina |
