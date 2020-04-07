@@ -232,7 +232,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Nevada |  [1](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/04/Declaration-of-Emergency-Directive-010-Stay-at-Home-3-31-20.pdf) | Emergency Directive | 4/1/2020 | 4/30/2020 | |
 | New Hampshire | [1](https://www.governor.nh.gov/news-media/emergency-orders/documents/emergency-order-17-1.pdf) | Emergency Order | 3/27/2020 | 5/4/2020 | |
 | New Jersey | [1](https://nj.gov/infobank/eo/056murphy/pdf/EO-107.pdf) | Executive Order | 3/21/2020 | Unspecified | |
-| New Mexico |  [1](https://cv.nmhealth.org/2020/03/23/state-enacts-further-restrictions-to-stop-spread-including-stay-at-home-instruction/) | Secretary of Health Order | 3/24/2020 | 4/10/2020 | |
+| New Mexico |  [1](https://cv.nmhealth.org/2020/03/23/state-enacts-further-restrictions-to-stop-spread-including-stay-at-home-instruction/) [2](https://cv.nmhealth.org/wp-content/uploads/2020/04/EO_2020_022.pdf) | Secretary of Health Order | 3/24/2020 | 4/30/2020 | |
 | New York | [1](https://coronavirus.health.ny.gov/new-york-state-pause) | 10 Point Policy | 3/22/2020 | Unspecified | |
 | North Carolina | [1](https://files.nc.gov/governor/documents/files/EO121-Stay-at-Home-Order-3.pdf) | Executive Order | 3/30/2020 | 30 days | |
 | North Dakota |
