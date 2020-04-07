@@ -108,7 +108,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Mississippi
 | Missouri | [1](https://dese.mo.gov/communications/coronavirus-covid-19-information) | | | 4/24/2020 |
 | Montana
-| Nebraska
+| Nebraska | [1](https://www.education.ne.gov/press_release/nebraska-offers-updated-guidance-for-schools/) | | | End of school year |
 | Nevada
 | New Hampshire
 | New Jersey
