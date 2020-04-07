@@ -45,6 +45,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 
 * [Centers for Disease Control and Prevention](https://www.cdc.gov/)
 * [Coronavirus.gov](https://www.coronavirus.gov/)
+* [Department of Education](https://www.ed.gov/coronavirus)
 * [Department of Health & Human Services](https://www.hhs.gov/)
   * [Coronavirus 2019 (COVID-19) Updates](https://www.hhs.gov/about/news/coronavirus/index.html)
   * [HIPAA, Civil Rights, and COVID-19](https://www.hhs.gov/hipaa/for-professionals/special-topics/hipaa-covid19/index.html)
