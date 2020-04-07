@@ -126,7 +126,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | South Carolina | [1](https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/) | | 3/16/2020 | 4/30/2020 |
 | South Dakota
 | Tennessee
-| Texas
+| Texas | [1](https://gov.texas.gov/uploads/files/press/EO-GA-14_Statewide_Essential_Service_and_Activity_COVID-19_IMAGE_03-31-2020.pdf) | | | 5/4/2020 |
 | Utah | [1](https://governor.utah.gov/2020/03/24/state-issues-extension-on-k-12-and-technical-college-dismissal/) | Online instruction | 3/16/2020 | 5/1/2020 |
 | Vermont
 | Virgin Islands (U.S.)
