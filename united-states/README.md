@@ -87,7 +87,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Arkansas | [1](http://dese.ade.arkansas.gov/divisions/communications/covid-19-information) [2](https://governor.arkansas.gov/news-media/press-releases/governor-hutchinson-announces-all-schools-to-remain-closed-for-remainder-of) | 3/16/2020 | End of school year |
 | California | [1](https://www.gov.ca.gov/2020/03/13/governor-newsom-signs-executive-order-ensuring-state-funding-for-schools-even-in-event-of-physical-closure/) | 3/13/2020 |
 | Colorado | [1](https://drive.google.com/file/d/1NoUmIcFCk6RdVIJyizc2ZYpEMXKYQ96J/view) | 3/18/2020 | 5/1/2020 |
-| Connecticut
+| Connecticut | [1](https://portal.ct.gov/SDE)  [2](https://portal.ct.gov/-/media/Office-of-the-Governor/Executive-Orders/Lamont-Executive-Orders/Executive-Order-No-7L.pdf) | | 4/20/2020 |
 | Delaware
 | Florida
 | Georgia | [1](https://www.georgiainsights.com/coronavirus.html) | | End of school year |
