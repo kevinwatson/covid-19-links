@@ -131,7 +131,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Vermont
 | Virgin Islands (U.S.)
 | Virginia
-| Washington | [1](https://www.governor.wa.gov/news-media/inslee-extends-school-closures-rest-2019-20-school-year) | | | End of school year |
+| Washington | [1](https://www.governor.wa.gov/news-media/inslee-extends-school-closures-rest-2019-20-school-year) | | End of school year |
 | Washington D.C.
 | West Virginia
 | Wisconsin
