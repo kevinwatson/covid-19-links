@@ -154,15 +154,15 @@
 
 * [Coronavirus.Utah.Gov](https://coronavirus.utah.gov)
   * [Governor’s "Stay Home, Stay Safe" Directive](https://coronavirus.utah.gov/full-text-governors-stay-home-stay-safe-directive/)
-  * [The Governor’s Coronavirus Directive For Utah FAQs PDF](https://coronavirus.utah.gov/wp-content/uploads/Stay_Home_Directive_FAQs.pdf)
   * [Resources for Business](https://coronavirus.utah.gov/business/)
+  * [State and Local Orders and Directives](https://coronavirus.utah.gov/special-orders/)
 * [Department of Motor Vehicles](https://dmv.utah.gov/)
 * [Department of Workforce Services](https://jobs.utah.gov/)
 * [Drivers License Division](https://dld.utah.gov/)
 * [Executive Orders](https://rules.utah.gov/executive-documents/)
 * [Utah Department of Health](https://health.utah.gov)
 * [Utah Leads Together Plan](https://issuu.com/goed/docs/utah-leads-together-plan)
-* [Utah Leads Together Plan - Summary](https://issuu.com/goed/docs/utah-leads-together-plan-summary)
+  * [Utah Leads Together Plan - Summary](https://issuu.com/goed/docs/utah-leads-together-plan-summary)
 * [Utah.gov](https://www.utah.gov)
 
 [<< Back](README.md)
