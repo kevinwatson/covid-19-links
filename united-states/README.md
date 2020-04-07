@@ -84,7 +84,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Alaska | [1](https://education.alaska.gov/safeschools/infectiousdisease) [2](https://education.alaska.gov/Media/Default/news/pdf/3-20-2020DEEDCOVID-19MemoreStatewideSchoolClosurePreapproval.pdf) | Online instruction | 3/16/2020 | 5/1/2020 |
 | American Samoa | [1](https://www.doe.as/) | | 3/23/2020 | 30 days |
 | Arizona | [1](https://www.azed.gov/communications/2020/03/10/guidance-to-schools-on-covid-19/) [2](https://www.azed.gov/communications/files/2020/03/HB-2910-Emergency-Legislation-Overview.pdf)| Online instruction | 3/15/2020 | End of school year |
-| Arkansas | [1](http://dese.ade.arkansas.gov/divisions/communications/covid-19-information) | Online instruction | 3/16/2020 | 4/17/2020 |
+| Arkansas | [1](http://dese.ade.arkansas.gov/divisions/communications/covid-19-information) [2](https://governor.arkansas.gov/news-media/press-releases/governor-hutchinson-announces-all-schools-to-remain-closed-for-remainder-of) | Online instruction | 3/16/2020 | End of school year |
 | California | [1](https://www.gov.ca.gov/2020/03/13/governor-newsom-signs-executive-order-ensuring-state-funding-for-schools-even-in-event-of-physical-closure/) | | 3/13/2020 |
 | Colorado | [1](https://drive.google.com/file/d/1NoUmIcFCk6RdVIJyizc2ZYpEMXKYQ96J/view) | Online instruction | 3/18/2020 | 5/1/2020 |
 | Connecticut
