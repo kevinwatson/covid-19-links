@@ -123,7 +123,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Pennsylvania
 | Puerto Rico
 | Rhode Island
-| South Carolina
+| South Carolina | [1](https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/) | | 3/16/2020 | 4/30/2020 |
 | South Dakota
 | Tennessee
 | Texas
@@ -243,7 +243,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Pennsylvania | [1](http://www.governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) [2](https://www.governor.pa.gov/wp-content/uploads/2020/04/20200401-GOV-Statewide-Stay-at-Home-Order.pdf) | Executive Order | 3/23/2020 | 4/30/2020 | |
 | Puerto Rico |  [1](https://www.scribd.com/document/451785912/Orden-ejecutiva-de-la-gobernadora-para-combatir-el-coronavirus#from_embed) | Executive Order | 3/30/2020 | Unspecified | |
 | Rhode Island | [1](http://governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) | Executive Order | 3/28/2020 | 4/13/2020 | |
-| South Carolina |
+| South Carolina | [1](https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf) | Executive Order | 4/7/2020 | Unspecified |
 | South Dakota |
 | Tennessee | [1](https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee22.pdf) | Executive Order | 3/31/2020 | 4/13/2020 | |
 | Texas |
