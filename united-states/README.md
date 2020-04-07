@@ -215,7 +215,7 @@
 | Hawaii | [1](https://hawaiicovid19.com/wp-content/uploads/2020/03/2003162-ATG_Third-Supplementary-Proclamation-for-COVID-19-signed-12.pdf) | Proclamation | 3/25/2020 | 4/30/2020 | |
 | Idaho | [1](https://coronavirus.idaho.gov/wp-content/uploads/sites/127/2020/04/statewide-stay-home-order_040220.pdf) | Department or Health Order | 3/25/2020 | 4/15/2020 | |
 | Illinois | [1](https://www2.illinois.gov/IISNews/21288-Gov._Pritzker_Stay_at_Home_Order.pdf) [2](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | Executive Order | 3/21/2020 | 4/30/2020 | |
-| Indiana | [1](https://www.in.gov/gov/files/Executive_Order_20-08_Stay_at_Home.pdf) | Executive Order | 3/25/2020 | 4/7/2020 | |
+| Indiana | [1](https://www.in.gov/gov/files/Executive_Order_20-08_Stay_at_Home.pdf) [2](https://www.in.gov/gov/files/Executive%20Order%2020-18%20Cont%20Stay%20at%20Home%20Restaurants%20Govt%20Ops.pdf) | Executive Order | 3/25/2020 | 4/20/2020 | |
 | Iowa |
 | Kansas | [1](https://governor.kansas.gov/wp-content/uploads/2020/03/EO20-16.pdf) | Executive Order | 3/30/2020 | 4/19/2020 | |
 | Kentucky | [1](https://kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=105) | Healthy at Home | 3/26/2020 | Unspecified | |
