@@ -131,7 +131,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Vermont
 | Virgin Islands (U.S.)
 | Virginia
-| Washington
+| Washington | [1](https://www.governor.wa.gov/news-media/inslee-extends-school-closures-rest-2019-20-school-year) | | | End of school year |
 | Washington D.C.
 | West Virginia
 | Wisconsin
@@ -251,7 +251,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Vermont | [1](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) | Executive Order | 3/25/2020 | 4/15/2020 | |
 | Virgin Islands (U.S.) |
 | Virginia |  [1](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-53-Temporary-Restrictions-Due-To-Novel-Coronavirus-(COVID-19).pdf) | Executive Order | 3/23/2020 | 4/23/2020 | |
-| Washington |  [1](https://www.governor.wa.gov/sites/default/files/proclamations/20-25%20Coronovirus%20Stay%20Safe-Stay%20Healthy%20%28tmp%29%20%28002%29.pdf) | Proclamation | 3/23/2020 | 4/6/2020 | |
+| Washington |  [1](https://www.governor.wa.gov/sites/default/files/proclamations/20-25%20Coronovirus%20Stay%20Safe-Stay%20Healthy%20%28tmp%29%20%28002%29.pdf) [2](https://www.governor.wa.gov/sites/default/files/20-25.1%20-%20COVID-19%20-%20Stay%20Home%2C%20Stay%20Healthy%20Extension%20%28tmp%29.pdf) | Proclamation | 3/23/2020 | 5/4/2020 | |
 | Washington D.C. | [1](https://coronavirus.dc.gov/stayhome) | Mayor's Order | 4/1/2020 | 4/24/2020 |
 | West Virginia | [1](https://coronavirus-wvgovstatus-cdn.azureedge.net/STAY_AT_HOME_ORDER.pdf) | Executive Order | 3/24/2020 | Unspecified | |
 | Wisconsin | [1](https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf) | Emergency Order | 3/25/2020 | 4/24/2020 | |
