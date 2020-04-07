@@ -94,7 +94,7 @@
 | Guam
 | Hawaii
 | Idaho
-| Illinois
+| Illinois | [1](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | | | 4/30/2020 |
 | Indiana | [1](https://www.doe.in.gov/covid-19) | Online instruction | 4/20/2020 | 5/1/2020 |
 | Iowa
 | Kansas
