@@ -93,7 +93,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Florida | [1](http://www.fldoe.org/newsroom/latest-news/florida-extends-school-campus-closures-through-may-1.stml) | | 5/1/2020 |
 | Georgia | [1](https://www.georgiainsights.com/coronavirus.html) | | End of school year |
 | Guam
-| Hawaii
+| Hawaii | [1](http://www.hawaiipublicschools.org/ConnectWithUs/MediaRoom/PressReleases/Pages/School-facilities-closed-to-students-through-April-30.aspx) | | 4/30/2020 |
 | Idaho
 | Illinois | [1](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | | 4/30/2020 |
 | Indiana | [1](https://www.doe.in.gov/covid-19) | 4/20/2020 | 5/1/2020 |
