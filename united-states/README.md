@@ -94,7 +94,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Georgia | [1](https://www.georgiainsights.com/coronavirus.html) | | End of school year |
 | Guam
 | Hawaii | [1](http://www.hawaiipublicschools.org/ConnectWithUs/MediaRoom/PressReleases/Pages/School-facilities-closed-to-students-through-April-30.aspx) | | 4/30/2020 |
-| Idaho
+| Idaho | [1](https://www.sde.idaho.gov/communications/files/news-releases/04-06-2020-State-Board-of-Education-extends-soft-closure-grants-flexibility-to-local-schools.pdf) | | End of school year |
 | Illinois | [1](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | | 4/30/2020 |
 | Indiana | [1](https://www.doe.in.gov/covid-19) | 4/20/2020 | 5/1/2020 |
 | Iowa | [1](https://governor.iowa.gov/sites/default/files/documents/Public%20Health%20Disaster%20Proclamation%20-%202020.04.02.pdf) | | 4/30/2020 |
