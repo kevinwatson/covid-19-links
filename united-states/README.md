@@ -78,25 +78,25 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 
 ### K-12 School Closures by State
 
-| State | Links | Action | Start Date | Tentative End Date | Actual End Date |
+| State | Links | Start Date | Tentative End Date | Actual End Date |
 |---|---|---|---|---|---|
-| Alabama | [1](https://www.alsde.edu/COVID19%20Updates/4thSupplementalStateofEmergencyCOVID-19.pdf) [2](https://www.alsde.edu/covid-19) | Online instruction | 3/19/2020 | 4/30/2020 |
-| Alaska | [1](https://education.alaska.gov/safeschools/infectiousdisease) [2](https://education.alaska.gov/Media/Default/news/pdf/3-20-2020DEEDCOVID-19MemoreStatewideSchoolClosurePreapproval.pdf) | Online instruction | 3/16/2020 | 5/1/2020 |
-| American Samoa | [1](https://www.doe.as/) | | 3/23/2020 | 30 days |
-| Arizona | [1](https://www.azed.gov/communications/2020/03/10/guidance-to-schools-on-covid-19/) [2](https://www.azed.gov/communications/files/2020/03/HB-2910-Emergency-Legislation-Overview.pdf)| Online instruction | 3/15/2020 | End of school year |
-| Arkansas | [1](http://dese.ade.arkansas.gov/divisions/communications/covid-19-information) [2](https://governor.arkansas.gov/news-media/press-releases/governor-hutchinson-announces-all-schools-to-remain-closed-for-remainder-of) | Online instruction | 3/16/2020 | End of school year |
-| California | [1](https://www.gov.ca.gov/2020/03/13/governor-newsom-signs-executive-order-ensuring-state-funding-for-schools-even-in-event-of-physical-closure/) | | 3/13/2020 |
-| Colorado | [1](https://drive.google.com/file/d/1NoUmIcFCk6RdVIJyizc2ZYpEMXKYQ96J/view) | Online instruction | 3/18/2020 | 5/1/2020 |
+| Alabama | [1](https://www.alsde.edu/COVID19%20Updates/4thSupplementalStateofEmergencyCOVID-19.pdf) [2](https://www.alsde.edu/covid-19) | 3/19/2020 | 4/30/2020 |
+| Alaska | [1](https://education.alaska.gov/safeschools/infectiousdisease) [2](https://education.alaska.gov/Media/Default/news/pdf/3-20-2020DEEDCOVID-19MemoreStatewideSchoolClosurePreapproval.pdf) | 3/16/2020 | 5/1/2020 |
+| American Samoa | [1](https://www.doe.as/) | 3/23/2020 | 30 days |
+| Arizona | [1](https://www.azed.gov/communications/2020/03/10/guidance-to-schools-on-covid-19/) [2](https://www.azed.gov/communications/files/2020/03/HB-2910-Emergency-Legislation-Overview.pdf)| 3/15/2020 | End of school year |
+| Arkansas | [1](http://dese.ade.arkansas.gov/divisions/communications/covid-19-information) [2](https://governor.arkansas.gov/news-media/press-releases/governor-hutchinson-announces-all-schools-to-remain-closed-for-remainder-of) | 3/16/2020 | End of school year |
+| California | [1](https://www.gov.ca.gov/2020/03/13/governor-newsom-signs-executive-order-ensuring-state-funding-for-schools-even-in-event-of-physical-closure/) | 3/13/2020 |
+| Colorado | [1](https://drive.google.com/file/d/1NoUmIcFCk6RdVIJyizc2ZYpEMXKYQ96J/view) | 3/18/2020 | 5/1/2020 |
 | Connecticut
 | Delaware
 | Florida
-| Georgia | [1](https://www.georgiainsights.com/coronavirus.html) | | | End of school year |
+| Georgia | [1](https://www.georgiainsights.com/coronavirus.html) | | End of school year |
 | Guam
 | Hawaii
 | Idaho
-| Illinois | [1](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | | | 4/30/2020 |
-| Indiana | [1](https://www.doe.in.gov/covid-19) | Online instruction | 4/20/2020 | 5/1/2020 |
-| Iowa | [1](https://governor.iowa.gov/sites/default/files/documents/Public%20Health%20Disaster%20Proclamation%20-%202020.04.02.pdf) | | | 4/30/2020 |
+| Illinois | [1](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | | 4/30/2020 |
+| Indiana | [1](https://www.doe.in.gov/covid-19) | 4/20/2020 | 5/1/2020 |
+| Iowa | [1](https://governor.iowa.gov/sites/default/files/documents/Public%20Health%20Disaster%20Proclamation%20-%202020.04.02.pdf) | | 4/30/2020 |
 | Kansas
 | Kentucky
 | Louisiana
@@ -106,16 +106,16 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Michigan
 | Minnesota
 | Mississippi
-| Missouri | [1](https://dese.mo.gov/communications/coronavirus-covid-19-information) | | | 4/24/2020 |
+| Missouri | [1](https://dese.mo.gov/communications/coronavirus-covid-19-information) | | 4/24/2020 |
 | Montana
-| Nebraska | [1](https://www.education.ne.gov/press_release/nebraska-offers-updated-guidance-for-schools/) | | | End of school year |
+| Nebraska | [1](https://www.education.ne.gov/press_release/nebraska-offers-updated-guidance-for-schools/) | | End of school year |
 | Nevada
 | New Hampshire
 | New Jersey
 | New Mexico
-| New York | [1](http://www.nysed.gov/) | Online instruction | | 4/15/2020 |
+| New York | [1](http://www.nysed.gov/) | | 4/15/2020 |
 | North Carolina
-| North Dakota | [1](https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-10.pdf) [2](https://www.nd.gov/dpi/school-closure-faq) | | | Until further notice |
+| North Dakota | [1](https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-10.pdf) [2](https://www.nd.gov/dpi/school-closure-faq) | | Until further notice |
 | Northern Mariana Islands
 | Ohio
 | Oklahoma
@@ -123,11 +123,11 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Pennsylvania
 | Puerto Rico
 | Rhode Island
-| South Carolina | [1](https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/) | | 3/16/2020 | 4/30/2020 |
+| South Carolina | [1](https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/) | 3/16/2020 | 4/30/2020 |
 | South Dakota
 | Tennessee
-| Texas | [1](https://gov.texas.gov/uploads/files/press/EO-GA-14_Statewide_Essential_Service_and_Activity_COVID-19_IMAGE_03-31-2020.pdf) | | | 5/4/2020 |
-| Utah | [1](https://governor.utah.gov/2020/03/24/state-issues-extension-on-k-12-and-technical-college-dismissal/) | Online instruction | 3/16/2020 | 5/1/2020 |
+| Texas | [1](https://gov.texas.gov/uploads/files/press/EO-GA-14_Statewide_Essential_Service_and_Activity_COVID-19_IMAGE_03-31-2020.pdf) | | 5/4/2020 |
+| Utah | [1](https://governor.utah.gov/2020/03/24/state-issues-extension-on-k-12-and-technical-college-dismissal/) | 3/16/2020 | 5/1/2020 |
 | Vermont
 | Virgin Islands (U.S.)
 | Virginia
@@ -135,7 +135,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Washington D.C.
 | West Virginia
 | Wisconsin
-| Wyoming | [1](https://edu.wyoming.gov/educators/covid-19-resources/) [2](https://edu.wyoming.gov/blog/2020/04/03/superintendent-balows-statement-on-school-closure-extension/) | | | 4/30/2020 |
+| Wyoming | [1](https://edu.wyoming.gov/educators/covid-19-resources/) [2](https://edu.wyoming.gov/blog/2020/04/03/superintendent-balows-statement-on-school-closure-extension/) | | 4/30/2020 |
 
 ## States and Territories
 
