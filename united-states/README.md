@@ -79,7 +79,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 ### K-12 School Closures by State
 
 | State | Links | Start Date | Tentative End Date | Actual End Date |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | Alabama | [1](https://www.alsde.edu/COVID19%20Updates/4thSupplementalStateofEmergencyCOVID-19.pdf) [2](https://www.alsde.edu/covid-19) | 3/19/2020 | 4/30/2020 |
 | Alaska | [1](https://education.alaska.gov/safeschools/infectiousdisease) [2](https://education.alaska.gov/Media/Default/news/pdf/3-20-2020DEEDCOVID-19MemoreStatewideSchoolClosurePreapproval.pdf) | 3/16/2020 | 5/1/2020 |
 | American Samoa | [1](https://www.doe.as/) | 3/23/2020 | 30 days |
