@@ -92,7 +92,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Delaware | [1](https://governor.delaware.gov/health-soe/eighth-state-of-emergency/) | | 5/15/2020 |
 | Florida | [1](http://www.fldoe.org/newsroom/latest-news/florida-extends-school-campus-closures-through-may-1.stml) | | 5/1/2020 |
 | Georgia | [1](https://www.georgiainsights.com/coronavirus.html) | | End of school year |
-| Guam
+| Guam | [1](https://www.guam.gov/wpdev-content/uploads/2020/03/EO-2020-04-Relative-to-Responding-to-Confirmed-Cases-of-Novel-Coronavirus-COVID-19.pdf) | 3/17/2020 | |
 | Hawaii | [1](http://www.hawaiipublicschools.org/ConnectWithUs/MediaRoom/PressReleases/Pages/School-facilities-closed-to-students-through-April-30.aspx) | | 4/30/2020 |
 | Idaho | [1](https://www.sde.idaho.gov/communications/files/news-releases/04-06-2020-State-Board-of-Education-extends-soft-closure-grants-flexibility-to-local-schools.pdf) | | End of school year |
 | Illinois | [1](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | | 4/30/2020 |
@@ -212,7 +212,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Delaware | [1](https://governor.delaware.gov/health-soe/ninth-state-of-emergency/) | Emergency Declaration | 3/24/2020 | 5/15/2020 | |
 | Florida | [1](https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-91-compressed.pdf) | Executive Order | 4/3/2020 | 4/30/2020 | |
 | Georgia | [1](https://gov.georgia.gov/press-releases/2020-04-02/governor-kemp-issues-shelter-place-order) | Executive Order | 4/3/2020 | 4/13/2020 |
-| Guam |
+| Guam | [1](https://sites.google.com/a/gdoe.net/gdoe/Home/covid-19-information) | 3/16/2020 | 4/13/2020 |
 | Hawaii | [1](https://hawaiicovid19.com/wp-content/uploads/2020/03/2003162-ATG_Third-Supplementary-Proclamation-for-COVID-19-signed-12.pdf) | Proclamation | 3/25/2020 | 4/30/2020 | |
 | Idaho | [1](https://coronavirus.idaho.gov/wp-content/uploads/sites/127/2020/04/statewide-stay-home-order_040220.pdf) | Department or Health Order | 3/25/2020 | 4/15/2020 | |
 | Illinois | [1](https://www2.illinois.gov/IISNews/21288-Gov._Pritzker_Stay_at_Home_Order.pdf) [2](https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx) | Executive Order | 3/21/2020 | 4/30/2020 | |
