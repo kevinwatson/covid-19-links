@@ -115,7 +115,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | New Mexico
 | New York | [1](http://www.nysed.gov/) | Online instruction | | 4/15/2020 |
 | North Carolina
-| North Dakota | [1](https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-10.pdf) | | | Until further notice |
+| North Dakota | [1](https://www.governor.nd.gov/sites/www/files/documents/executive-orders/Executive%20Order%202020-10.pdf) [2](https://www.nd.gov/dpi/school-closure-faq) | | | Until further notice |
 | Northern Mariana Islands
 | Ohio
 | Oklahoma
