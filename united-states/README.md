@@ -206,7 +206,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Arizona | [1](https://azgovernor.gov/governor/news/2020/03/new-executive-order-stay-home-stay-healthy-stay-connected) | Executive Order | 3/31/2020 | 4/30/2020 | |
 | Arkansas |
 | California | [1](https://covid19.ca.gov/img/Executive-Order-N-33-20.pdf) | Executive Order | 3/19/2020 | Unspecified | |
-| Colorado | [1](https://drive.google.com/file/d/1O1EDCY6-A6QBKxzDImCSF8bBBdOOI3Km/view) | Executive Order | 3/26/2020 | 4/11/2020 | |
+| Colorado | [1](https://drive.google.com/file/d/1O1EDCY6-A6QBKxzDImCSF8bBBdOOI3Km/view) [2](https://drive.google.com/file/d/1UHbu2_DTdTvSlPcpsd_vDLtnaslmISuo/view) | Executive Order | 3/26/2020 | 4/26/2020 | |
 | Connecticut |  [1](https://portal.ct.gov/-/media/Office-of-the-Governor/Executive-Orders/Lamont-Executive-Orders/Executive-Order-No-7H.pdf?la=en) | Executive Order | 3/23/2020 | 4/22/2002 | |
 | Delaware | [1](https://governor.delaware.gov/health-soe/ninth-state-of-emergency/) | Emergency Declaration | 3/24/2020 | 5/15/2020 | |
 | Florida | [1](https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-91-compressed.pdf) | Executive Order | 4/3/2020 | 4/30/2020 | |
