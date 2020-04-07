@@ -201,9 +201,9 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 
 | State | Links | Type | Start Date | Tentative End Date | Actual End Date |
 |---|---|---|---|---|---|
-| American Samoa |
 | Alabama | [1](https://governor.alabama.gov/assets/2020/04/Final-Statewide-Order-4.3.2020.pdf) | State Health Officer Order | 4/4/2020 | 4/30/2020 |
 | Alaska | [1](https://gov.alaska.gov/home/covid19-healthmandates/) | Health Mandate | 3/28/2020 | 4/11/2020 | |
+| American Samoa |
 | Arizona | [1](https://azgovernor.gov/governor/news/2020/03/new-executive-order-stay-home-stay-healthy-stay-connected) | Executive Order | 3/31/2020 | 4/30/2020 | |
 | Arkansas |
 | California | [1](https://covid19.ca.gov/img/Executive-Order-N-33-20.pdf) | Executive Order | 3/19/2020 | Unspecified | |
