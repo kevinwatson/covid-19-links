@@ -10,6 +10,8 @@
 
 ## Cities
 
+* [Alta](https://townofalta.com/)
+  * [Emergency Proclamations Related to COVID-19](https://townofalta.com/emergency-proclamations-related-to-covid-19/)
 * [American Fork](https://afcity.org/)
   * [Coronavirus (COVID-19) Updates](https://afcity.org/coronavirus)
 * [Bountiful](https://www.bountifulutah.gov/)
@@ -18,11 +20,16 @@
   * [Coronavirus (COVID-19) Cedar City Updates](https://cedarcity.org/CivicAlerts.aspx?AID=561)
 * [Draper](https://www.draper.ut.us/)
   * [COVID-19](https://www.draper.ut.us/1556/COVID-19)
+* [Herriman](https://www.herriman.org/)
+  * [Coronavirus Updates](https://www.herriman.org/coronavirus-updates/)
 * [Lehi](https://www.lehi-ut.gov/)
   * [Coronavirus Updates](https://www.lehi-ut.gov/coronavirus-updates/)
 * [Murray](https://www.murray.utah.gov/)
+  * [Murray City COVID-19 Updates](https://www.murray.utah.gov/CivicAlerts.aspx?AID=927)
 * [Ogden](https://www.ogdencity.com/)
   * [Coronavirus Community Update](https://www.ogdencity.com/1649/Coronavirus-Community-Update)
+* [Park City](https://www.parkcity.org/)
+  * [COVID-19 Updates](https://www.parkcity.org/government/covid-19)
 * [Provo](https://www.provo.org/)
   * [Community Safety Plan for COVID-19](https://www.provo.org/city-services/covid19)
 * [Salt Lake City](https://www.slc.gov/)
@@ -30,8 +37,12 @@
   * [Proclamation Of Local Emergency](https://www.slc.gov/mayor/proclamation-of-local-emergency/)
 * [Sandy](https://www.sandy.utah.gov/)
   * [Coronavirus Updates](https://www.sandy.utah.gov/departments/emergency-management/coronavirus)
+* [South Jordan](https://www.sjc.utah.gov/)
+  * [COVID-19 Updates](https://www.sjc.utah.gov/covid19updates/)
 * [St. George](https://www.sgcity.org/)
   * [City of St. George COVID-19 Hub](https://city-of-st-george-coronavirus-response-sgcity.hub.arcgis.com/)
+* [Taylorsville](https://www.taylorsvilleut.gov/)
+  * [Tracking Coronavirus Taylorsville READY](https://www.taylorsvilleut.gov/services/coronavirus)
 * [West Valley City](https://www.wvc-ut.gov/)
   * [COVID-19 Preparation and Information](https://www.wvc-ut.gov/1787/COVID-19)
 
