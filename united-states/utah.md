@@ -125,6 +125,23 @@
 
 ## Schools
 
+### High School Commencement Ceremonies
+
+| District | School | Graduation Postponed/Canceled |
+|---|---|
+| Alpine | [American Fork](https://afhs.alpineschools.org/) |
+| Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) |
+| Alpine | [Lehi](http://lhs.alpineschools.org/) |
+| Alpine | [Lone Peak](http://lphs.alpineschools.org/) |
+| Alpine | [Mountain View](http://mvhs.alpineschools.org/) |
+| Alpine | [Orem](http://ohs.alpineschools.org/) |
+| Alpine | [Pleasant Grove](http://pghs.alpineschools.org/) |
+| Alpine | [Polaris](https://polaris.alpineschools.org/) |
+| Alpine | [Polaris West](https://phswest.alpineschools.org/about-phswest/) |
+| Alpine | [Skyridge](http://shs.alpineschools.org/) |
+| Alpine | [Timpanogos](http://ths.alpineschools.org/) |
+| Alpine | [Westlake](http://whs.alpineschools.org/) |
+
 ### Higher Education
 
 | School | COVID-19 Link | Graduation Postponed/Canceled |
