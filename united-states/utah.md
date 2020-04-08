@@ -128,7 +128,7 @@
 ### High School Commencement Ceremonies
 
 | District | School | Graduation Postponed/Canceled |
-|---|---|
+|---|---|---|
 | Alpine | [American Fork](https://afhs.alpineschools.org/) |
 | Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) |
 | Alpine | [Lehi](http://lhs.alpineschools.org/) |
