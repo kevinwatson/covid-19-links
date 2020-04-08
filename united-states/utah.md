@@ -4,7 +4,7 @@
 
 * [Cities](utah.md#cities)
 * [Counties](utah.md#counties)
-* [Regional Information](utah.md#regional-information)
+* [Health Departments](utah.md#health-departments)
 * [Schools](utah.md#schools)
 * [State Government](utah.md#state-government)
 
@@ -95,10 +95,32 @@
 * [Weber](http://www.webercountyutah.gov/)
   * [COVID-19 Web Resources](http://www.webercountyutah.gov/covid-19/)
 
-## Regional Information
+## Health Departments
 
-* [Southwest Utah Public Health Department (Serving Beaver, Garfield, Iron, Kane and Washington counties)](https://swuhealth.org/)
+* [Bear River Health Department (Box Elder, Cache and Rich counties)](https://brhd.org/)
+  * [Coronavirus Update](https://brhd.org/coronavirus/)
+* [Central Utah Public Health Department (Juab, Millard, Sanpete, Piute, Sevier, Wayne counties)](https://centralutahpublichealth.org/)
+* [Davis County Health Department](https://www.daviscountyutah.gov/health)
+  * [Davis County Coronavirus (COVID-19)](http://www.daviscountyutah.gov/health/covid-19)
+* [Navajo Nation](https://www.navajo-nsn.gov/)
+* [Salt Lake County Health Department](https://slco.org/)
+  * [COVID-19](https://slco.org/health/COVID-19/)
+* [San Juan Public Health](http://sanjuancounty.org/index.php/public-health/)
+* [Southeast Utah Health Department (Carbon, Emery and Grand counties)](https://www.seuhealth.com/)
+  * [Coronavirus Information](https://www.seuhealth.com/covid-19)
+* [Southwest Utah Public Health Department (Beaver, Garfield, Iron, Kane and Washington counties)](https://swuhealth.org/)
   * [COVID-19 (New Coronavirus)](https://swuhealth.org/covid/)
+* [Summit County Health](https://summitcountyhealth.org/)
+  * [Coronavirus (COVID-19) Updates](https://summitcountyhealth.org/coronavirus)
+* [Tooele County Health Department](https://tooelehealth.org/)
+  * [Coronavirus COVID-19](https://tooelehealth.org/coronavirus-disease-2019/)
+* [TriCounty (Daggett, Duchesne and Unintah counties)](https://tricountyhealth.com/)
+* [Wasatch County Health Department](http://www.wasatchcountyhd.org/)
+  * [Coronavirus Disease (COVID-19)](http://coronavirus.wasatch.utah.gov/)
+* [Weber-Morgan Health Department](http://www.webermorganhealth.org/)
+  * [Latest News on the Coronavirus Disease](http://www.webermorganhealth.org/coronavirus/)
+* [Utah County Health Department](https://health.utahcounty.gov/)
+  * [Public Health Orders / Directives / Guidance](https://health.utahcounty.gov/2020/03/31/public-health-orders/)
 
 ## Schools
 
