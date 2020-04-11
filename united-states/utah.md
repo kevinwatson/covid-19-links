@@ -146,7 +146,7 @@
 
 | School | COVID-19 Link | Graduation Postponed/Canceled |
 |---|---|---|
-| [Brigham Young University](https://www.byu.edu/) | [Coronavirus (COVID-19) Updates](https://www.byu.edu/coronavirus) | [Canceled](https://enrollment.byu.edu/registrar/commencement) |
+| [Brigham Young University](https://www.byu.edu/) | [Coronavirus (COVID-19) Updates](https://www.byu.edu/coronavirus) | [General commencement has been canceled](https://enrollment.byu.edu/registrar/commencement) |
 | [Dixie State University](https://dixie.edu/) | [DSU'S COVID-19 Response Plan](https://wellness.dixie.edu/coronavirus-information/) | [Rescheduled for 12/11/2020](https://dixie.edu/commencement/) |
 | [Salt Lake Community College](https://www.slcc.edu/) | [Coronavirus (COVID-19) Updates](https://www.slcc.edu/safe/c19.aspx) | [Postponed](https://www.slcc.edu/commencement/index.aspx) |
 | [Snow College](https://www.snow.edu/) | [COVID-19 (novel coronavirus) Information](https://www.snow.edu/offices/safety/coronavirus/index.html) | [Undecided](https://www.snow.edu/general/commencement/index.html) |
