@@ -147,14 +147,14 @@
 | School | COVID-19 Link | Graduation Postponed/Canceled |
 |---|---|---|
 | [Brigham Young University](https://www.byu.edu/) | [Coronavirus (COVID-19) Updates](https://www.byu.edu/coronavirus) | [Canceled](https://enrollment.byu.edu/registrar/commencement) |
-| [Dixie State University](https://dixie.edu/) | [DSU'S COVID-19 Response Plan](https://wellness.dixie.edu/coronavirus-information/) | [Postponed](https://dixie.edu/commencement/) |
+| [Dixie State University](https://dixie.edu/) | [DSU'S COVID-19 Response Plan](https://wellness.dixie.edu/coronavirus-information/) | [Rescheduled for 12/11/2020](https://dixie.edu/commencement/) |
 | [Salt Lake Community College](https://www.slcc.edu/) | [Coronavirus (COVID-19) Updates](https://www.slcc.edu/safe/c19.aspx) | [Postponed](https://www.slcc.edu/commencement/index.aspx) |
 | [Snow College](https://www.snow.edu/) | [COVID-19 (novel coronavirus) Information](https://www.snow.edu/offices/safety/coronavirus/index.html) | [Undecided](https://www.snow.edu/general/commencement/index.html) |
-| [Southern Utah University](https://www.suu.edu/) | [Campus Health Notice: Coronavirus](https://www.suu.edu/news/2020/02/coronavirus-health-notice.html) | [Postponed](https://www.suu.edu/news/2020/03/campus-update-commencement.html) |
-| [University of Utah](https://www.utah.edu/) | [COVID-19 Central @TheU](https://coronavirus.utah.edu/) | [Postponed](https://attheu.utah.edu/facultystaff/commencement-postponed-due-to-covid-19/) |
-| [Utah State University](https://www.usu.edu/) | [Coronavirus (COVID-19) Information](https://www.usu.edu/covid-19/) | [Postponed until August 28-29, 2020](http://www.usu.edu/today/story/usu-cancels-commencement-ceremonies-amid-coronavirus-pandemic) |
-| [Utah Valley University](https://www.uvu.edu/) | [UVU Emergency Information](https://www.uvu.info/) | [Postponed](https://www.uvu.info/2020/03/covid-19-commencement-study-abroad-and.html) |
-| [Weber State University](https://www.weber.edu/) | [WSU Update COVID-19 (Coronavirus)](https://www.weber.edu/coronavirus/default.html) | [Postponed](https://www.weber.edu/WSUToday/031820_CommencementPostponed.html) |
+| [Southern Utah University](https://www.suu.edu/) | [Campus Health Notice: Coronavirus](https://www.suu.edu/news/2020/02/coronavirus-health-notice.html) | [Rescheduled for 8/8/2020](https://www.suu.edu/news/2020/03/commencement-update.html) |
+| [University of Utah](https://www.utah.edu/) | [COVID-19 Central @TheU](https://coronavirus.utah.edu/) | [General commencement on 4/30/2020 and college convocations 12/18/2020-12/19/2020](https://commencement.utah.edu/) |
+| [Utah State University](https://www.usu.edu/) | [Coronavirus (COVID-19) Information](https://www.usu.edu/covid-19/) | [Rescheduled for 8/28/2020-8/29/2020](http://www.usu.edu/today/story/usu-cancels-commencement-ceremonies-amid-coronavirus-pandemic) |
+| [Utah Valley University](https://www.uvu.edu/) | [UVU Emergency Information](https://www.uvu.info/) | [Rescheduled for 8/19/2020-8/20/2020](https://www.uvu.edu/graduation/ceremony/) |
+| [Weber State University](https://www.weber.edu/) | [WSU Update COVID-19 (Coronavirus)](https://www.weber.edu/coronavirus/default.html) | [Postponed](https://www.weber.edu/commencement) |
 | [Westminster College](https://westminstercollege.edu/) | [Coronavirus (COVID-19) Resources](https://westminstercollege.edu/about/resources/risk-management/emergency-notifications/coronavirus) | [Postponed](https://westminstercollege.edu/about/resources/commencement) |
 
 ### K-12 School Districts
