@@ -202,7 +202,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | State | Links | Type | Start Date | Tentative End Date | Actual End Date |
 |---|---|---|---|---|---|
 | Alabama | [1](https://governor.alabama.gov/assets/2020/04/Final-Statewide-Order-4.3.2020.pdf) | State Health Officer Order | 4/4/2020 | 4/30/2020 |
-| Alaska | [1](https://gov.alaska.gov/home/covid19-healthmandates/) | Health Mandate | 3/28/2020 | 4/11/2020 | |
+| Alaska | [1](https://gov.alaska.gov/home/covid19-healthmandates/) | Health Mandate | 3/28/2020 | 4/21/2020 | |
 | American Samoa |
 | Arizona | [1](https://azgovernor.gov/governor/news/2020/03/new-executive-order-stay-home-stay-healthy-stay-connected) | Executive Order | 3/31/2020 | 4/30/2020 | |
 | Arkansas |
@@ -220,16 +220,16 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Iowa |
 | Kansas | [1](https://governor.kansas.gov/wp-content/uploads/2020/03/EO20-16.pdf) | Executive Order | 3/30/2020 | 4/19/2020 | |
 | Kentucky | [1](https://kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=105) | Healthy at Home | 3/26/2020 | Unspecified | |
-| Louisiana | [1](https://gov.louisiana.gov/assets/Proclamations/2020/JBE-33-2020.pdf) | Proclamation | 3/23/2020 | 4/13/2020 | |
+| Louisiana | [1](https://gov.louisiana.gov/assets/Proclamations/2020/JBE-33-2020.pdf) [2](https://gov.louisiana.gov/assets/Proclamations/2020/41-JBE-2020-Stay-At-Home-Extended.pdf) | Proclamation | 3/23/2020 | 4/30/2020 | |
 | Maine | [1](https://www.maine.gov/governor/mills/sites/maine.gov.governor.mills/files/inline-files/An%20Order%20Regarding%20Further%20Restrictions%20on%20Public%20Contact%20and%20Movement%2C%20Schools%2C%20Vehicle%20Travel%20and%20Retail%20Business%20Operations.pdf) | Executive Order | 4/1/2020 | 4/30/2020 | |
 | Maryland | [1](https://governor.maryland.gov/wp-content/uploads/2020/03/Gatherings-FOURTH-AMENDED-3.30.20.pdf) | Executive Order | 3/30/2020 | Unspecified | |
 | Massachusetts |  [1](https://thehill.com/homenews/state-watch/490426-massachusetts-governor-extends-stay-at-home-advisory-through-may-4) | Advisory | 3/24/2020 | 5/4/2020 | |
-| Michigan | [1](https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-522626--,00.html) | Executive Order | 3/24/2020 | 4/13/2020 | |
-| Minnesota | [1](https://mn.gov/governor/assets/3a.%20EO%2020-20%20FINAL%20SIGNED%20Filed_tcm1055-425020.pdf) | Executive Order | 3/27/2020 | 4/10/2020 | |
+| Michigan | [1](https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-522626--,00.html) [2](https://content.govdelivery.com/attachments/MIEOG/2020/04/09/file_attachments/1423850/EO%202020-42.pdf) | Executive Order | 3/24/2020 | 4/30/2020 | |
+| Minnesota | [1](https://mn.gov/governor/assets/3a.%20EO%2020-20%20FINAL%20SIGNED%20Filed_tcm1055-425020.pdf) [2](https://mn.gov/governor/assets/2a.%20EO%2020-33%20Final_tcm1055-427370.pdf) | Executive Order | 3/27/2020 | 5/3/2020 | |
 | Mississippi | [1](https://www.sos.ms.gov/Education-Publications/ExecutiveOrders/1466.pdf) | Executive Order | 4/3/2020 | 4/20/2020 | |
 | Missouri | [1](https://governor.mo.gov/press-releases/archive/governor-parson-issues-statewide-stay-home-missouri-order-control-contain) [2](https://governor.mo.gov/priorities/stay-home-order) | Department of Health Order | 4/6/2020 | 4/24/2020 |
-| Montana | [1](https://covid19.mt.gov/Portals/223/Documents/Stay%20at%20Home%20Directive.pdf?ver=2020-03-26-173332-177) | Directive | 3/28/2020 | 4/10/2020 | |
-| Nebraska |
+| Montana | [1](https://covid19.mt.gov/Portals/223/Documents/Stay%20at%20Home%20Directive.pdf?ver=2020-03-26-173332-177) [2](https://dphhs.mt.gov/aboutus/news/2020/directivesextended) | Directive | 3/28/2020 | 4/24/2020 | |
+| Nebraska | [1](http://dhhs.ne.gov/Documents/COVID-19-DHM-STATEWIDE.pdf) | Directive | 4/3/2020 | 4/30/2020 |
 | Nevada |  [1](https://nvhealthresponse.nv.gov/wp-content/uploads/2020/04/Declaration-of-Emergency-Directive-010-Stay-at-Home-3-31-20.pdf) | Emergency Directive | 4/1/2020 | 4/30/2020 | |
 | New Hampshire | [1](https://www.governor.nh.gov/news-media/emergency-orders/documents/emergency-order-17-1.pdf) | Emergency Order | 3/27/2020 | 5/4/2020 | |
 | New Jersey | [1](https://nj.gov/infobank/eo/056murphy/pdf/EO-107.pdf) | Executive Order | 3/21/2020 | Unspecified | |
@@ -243,7 +243,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Oregon | [1](https://www.oregon.gov/gov/Documents/executive_orders/eo_20-12.pdf) | Executive Order | 3/23/2020 | Unspecified | |
 | Pennsylvania | [1](http://www.governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) [2](https://www.governor.pa.gov/wp-content/uploads/2020/04/20200401-GOV-Statewide-Stay-at-Home-Order.pdf) | Executive Order | 3/23/2020 | 4/30/2020 | |
 | Puerto Rico |  [1](https://www.scribd.com/document/451785912/Orden-ejecutiva-de-la-gobernadora-para-combatir-el-coronavirus#from_embed) | Executive Order | 3/30/2020 | Unspecified | |
-| Rhode Island | [1](http://governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) | Executive Order | 3/28/2020 | 4/13/2020 | |
+| Rhode Island | [1](http://governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) [2](http://www.governor.ri.gov/documents/orders/Executive-Order-20-23.pdf) | Executive Order | 3/28/2020 | 5/8/2020 | |
 | South Carolina | [1](https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf) | Executive Order | 4/7/2020 | Unspecified |
 | South Dakota |
 | Tennessee | [1](https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee22.pdf) | Executive Order | 3/31/2020 | 4/13/2020 | |
