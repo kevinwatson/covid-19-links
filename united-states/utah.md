@@ -149,7 +149,7 @@
 | [Brigham Young University](https://www.byu.edu/) | [Coronavirus (COVID-19) Updates](https://www.byu.edu/coronavirus) | [Canceled](https://enrollment.byu.edu/registrar/commencement) |
 | [Dixie State University](https://dixie.edu/) | [DSU'S COVID-19 Response Plan](https://wellness.dixie.edu/coronavirus-information/) | [Postponed](https://dixie.edu/commencement/) |
 | [Salt Lake Community College](https://www.slcc.edu/) | [Coronavirus (COVID-19) Updates](https://www.slcc.edu/safe/c19.aspx) | [Postponed](https://www.slcc.edu/commencement/index.aspx) |
-| [Snow College](https://www.snow.edu/) | [COVID-19 (novel coronavirus) Information](https://www.snow.edu/offices/safety/coronavirus/index.html) | [Canceled](https://www.snow.edu/offices/safety/coronavirus/index.html) |
+| [Snow College](https://www.snow.edu/) | [COVID-19 (novel coronavirus) Information](https://www.snow.edu/offices/safety/coronavirus/index.html) | [Undecided](https://www.snow.edu/general/commencement/index.html) |
 | [Southern Utah University](https://www.suu.edu/) | [Campus Health Notice: Coronavirus](https://www.suu.edu/news/2020/02/coronavirus-health-notice.html) | [Postponed](https://www.suu.edu/news/2020/03/campus-update-commencement.html) |
 | [University of Utah](https://www.utah.edu/) | [COVID-19 Central @TheU](https://coronavirus.utah.edu/) | [Postponed](https://attheu.utah.edu/facultystaff/commencement-postponed-due-to-covid-19/) |
 | [Utah State University](https://www.usu.edu/) | [Coronavirus (COVID-19) Information](https://www.usu.edu/covid-19/) | [Postponed until August 28-29, 2020](http://www.usu.edu/today/story/usu-cancels-commencement-ceremonies-amid-coronavirus-pandemic) |
