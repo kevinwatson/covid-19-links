@@ -11,7 +11,10 @@
 * Individuals who do not typically file their taxes will need to file a simple return
 * The deadline to file and receive a payment is the end of 2020
 
-Source: [www.irs.gov - Economic impact payments: What you need to know](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
+Sources:
+
+* [www.irs.gov - Economic impact payments: What you need to know](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
+* [www.irs.gov - Economic Impact Payments](https://www.irs.gov/coronavirus/economic-impact-payments)
 
 #### IRS Income tax Filing and Payment Deadlines
 
