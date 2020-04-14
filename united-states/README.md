@@ -249,7 +249,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | Rhode Island | [1](http://governor.ri.gov/documents/orders/Executive-Order-20-13.pdf) [2](http://www.governor.ri.gov/documents/orders/Executive-Order-20-23.pdf) | Executive Order | 3/28/2020 | 5/8/2020 | |
 | South Carolina | [1](https://governor.sc.gov/sites/default/files/Documents/Executive-Orders/2020-04-06%20eFILED%20Executive%20Order%20No.%202020-21%20-%20Stay%20at%20Home%20or%20Work%20Order.pdf) | Executive Order | 4/7/2020 | Unspecified |
 | South Dakota |
-| Tennessee | [1](https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee22.pdf) | Executive Order | 3/31/2020 | 4/13/2020 | |
+| Tennessee | [1](https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee22.pdf) [2](https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee27.pdf) | Executive Order | 3/31/2020 | 4/30/2020 | |
 | Texas |
 | Utah | [1](https://drive.google.com/file/d/1Qey2xIxAEqIxiiAHJyHSxBosmjetkbN7/view) [2](https://coronavirus-download.utah.gov/Governor/Extension%20of%20Stay%20Safe%20Stay%20Home%20Directive.pdf) | Directive | 3/27/2020 | 5/1/2020 | |
 | Vermont | [1](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) | Executive Order | 3/25/2020 | 4/15/2020 | |
