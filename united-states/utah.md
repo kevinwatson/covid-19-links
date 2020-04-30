@@ -7,6 +7,7 @@
 * [Health Departments](utah.md#health-departments)
 * [Schools](utah.md#schools)
 * [State Government](utah.md#state-government)
+* [Timeline](utah.md#timeline)
 
 ## Cities
 
@@ -219,3 +220,32 @@
 * [Utah.gov](https://www.utah.gov)
 
 [<< Back](README.md)
+
+## Timeline
+
+| Date | Links | Government Level | Name | Description |
+|---|---|---|---|---|
+| 3/6/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-1.pdf) | State | Executive Order No. 2020-1 | State of Emergency Due to Infectious Disease COVID-19 Novel Coronavirus |
+| 3/12/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-2.pdf) | State | Executive Order No. 2020-2| Suspending the Enforcement of Utah Code Subsections 20A-9-407(3)(a) and 20A-9-408(3)(b) Due to Infectious Disease COVID-19 Novel Coronavirus |
+| 3/17/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-3.pdf) | State | Executive Order No. 2020-3 | Temporarily Suspending Utah Administrative Code R671-302 Regarding Public Access to Board of Pardons and Parole Hearings |
+| 3/18/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-4.pdf) | State | Executive Order No. 2020-4 | Temporarily Suspending Utah Administrative Code R82-2-201 Regarding Liquor Returns, Refunds and Exchanges |
+| 3/18/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-5.pdf) | State | Executive Order No. 2020-5 | Suspending the Enforcement of Provisions of Utah Code Sections 52-4-202 and 52-4-207, and Related State Agency Orders, Rules, and Regulations, Due to Infectious Disease COVID-19 Novel Coronavirus |
+| 3/18/2020 | [1](https://earthquake.usgs.gov/earthquakes/eventpage/uu60363602/executive) | Regional | Natural Event | 5.7 Earthquake near Magna |
+| 3/20/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-6.pdf) | State | Executive Order No. 2020-6 | Declaring a State of Emergency Due to Magnitude 5.7 Earthquake |
+| 3/25/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-7.pdf) | State | Executive Order No. 2020-7 | Suspending Enforcement of Statutes Relating to Telehealth Services |
+| 3/26/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-8.pdf) | State | Executive Order No. 2020-8 | Suspending Certain Provisions of the Utah Election Code Regarding Signature Gathering |
+| 3/27/2020 | [1](https://rules.utah.gov/wp-content/uploads/Governors_Coronavirus_Directive_for_Utah.pdf) | State | Directive | The Governor's Coronavirus Directive for Utah "Stay Safe, Stay Home" |
+| 3/30/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-9.pdf) | State | Executive Order No. 2020-9 | Suspending Provisions of the Utah Postretirement Reemployment Restrictions Act |
+| 3/30/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-10.pdf) | State | Executive Order No. 2020-10 | Suspending the Enforcement of a Statute Related to the Industrial Assistance Account |
+| 4/1/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-11.pdf) | State | Executive Order No. 2020-11 | Suspending Certain Statutes Governing Eviction Proceedings |
+| 4/1/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-12.pdf) | State | Executive Order No. 2020-12 | Suspending Certain Provisions of the Utah Election Code Regarding Signature Gathering for Local Referenda |
+| 4/2/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-13.pdf) | State | Executive Order No. 2020-13 | Temporarily Suspending Residential Evictions of Individuals Experiencing Wage or Job Loss as a Result of COVID-19 |
+| 4/3/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-14.pdf) | State | Executive Order No. 2020-14 | Suspending Certain Provisions of the Utah Election Code Regarding Signature Gathering for Local Referenda |
+| 4/8/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-15.pdf) | State | Executive Order No. 2020-15| Establishing a Requirement for Individuals Entering Utah to Complete a Travel Declaration Form |
+| 4/10/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-2020-16.pdf) | State | Executive Order No. 2020-16 | Establishing a Requirement for Individuals Entering Utah to Complete a Travel Declaration Form |
+| 4/10/2020 | [1](https://rules.utah.gov/wp-content/uploads/Governors_Coronavirus_Directive_for_Utah_Update_04-10-2020.pdf) | State | Directive | The Governor's Coronavirus Directive for Utah "Stay Safe, Stay Home" |
+| 4/14/2020 | [1](https://earthquake.usgs.gov/earthquakes/eventpage/uu60378292/executive) | Regional | Natural Event | 4.2 Earthquake aftershock near Magna |
+| 4/16/2020 | [1](https://earthquake.usgs.gov/earthquakes/eventpage/uu60378837/executive) | Regional | Natural Event | 4.2 Earthquake aftershock near Magna |
+| 4/17/2020 | [1](https://rules.utah.gov/wp-content/uploads/Governors_Coronavirus_Directive_for_Utah_Update_04-17-2020.pdf) | State | Directive | The Governor's Coronavirus Directive for Utah "Stay Safe, Stay Home" |
+| 4/28/2020 | [1](https://governor.utah.gov/2020/04/28/gov-herbert-announces-a-mask-for-every-utahn-project/) | State | | "A Mask for Every Utahn" Project |
+
