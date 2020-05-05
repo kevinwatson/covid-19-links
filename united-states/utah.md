@@ -128,20 +128,20 @@
 
 ### High School Commencement Ceremonies
 
-| District | School | Graduation Postponed/Canceled |
+| District | School | Graduation Information |
 |---|---|---|
-| Alpine | [American Fork](https://afhs.alpineschools.org/) |
-| Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) |
+| Alpine | [American Fork](https://afhs.alpineschools.org/) | [1](https://docs.google.com/document/d/1iNgCeKLeHHHZXMLffpXJBfXM8MBKjroAUpENg_yJy1c/edit) |
+| Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) | [1](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) |
 | Alpine | [Lehi](http://lhs.alpineschools.org/) |
-| Alpine | [Lone Peak](http://lphs.alpineschools.org/) |
-| Alpine | [Mountain View](http://mvhs.alpineschools.org/) |
-| Alpine | [Orem](http://ohs.alpineschools.org/) |
+| Alpine | [Lone Peak](http://lphs.alpineschools.org/) | [1](https://docs.google.com/document/d/16qpSgHj0_hV5VQjlC3ElvcqkH7j-CGWVp83lpiCo_A8/edit) |
+| Alpine | [Mountain View](http://mvhs.alpineschools.org/) | [1](https://mvhs.alpineschools.org/wp-content/uploads/sites/5/2020/05/Update-March-27th-2.jpg) |
+| Alpine | [Orem](http://ohs.alpineschools.org/) | [1](https://docs.google.com/document/d/184MyZd3VxO1LR2feJnt0Db0_25NuioM8LQehsrXRz6k/edit) |
 | Alpine | [Pleasant Grove](http://pghs.alpineschools.org/) |
-| Alpine | [Polaris](https://polaris.alpineschools.org/) |
+| Alpine | [Polaris](https://polaris.alpineschools.org/) | [1](https://polaris.alpineschools.org/ccr-and-graduation/) |
 | Alpine | [Polaris West](https://phswest.alpineschools.org/about-phswest/) |
 | Alpine | [Skyridge](http://shs.alpineschools.org/) |
-| Alpine | [Timpanogos](http://ths.alpineschools.org/) |
-| Alpine | [Westlake](http://whs.alpineschools.org/) |
+| Alpine | [Timpanogos](http://ths.alpineschools.org/) | [1](https://docs.google.com/document/d/179Eegg2B7iMz-JiIt_CnIQca3q1rq4FZzOE7y9AWAZE/edit) |
+| Alpine | [Westlake](http://whs.alpineschools.org/) | [1](https://whs.alpineschools.org/class-of-2020-information/) |
 
 ### Higher Education
 
