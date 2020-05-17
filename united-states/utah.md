@@ -249,3 +249,4 @@
 | 4/17/2020 | [1](https://rules.utah.gov/wp-content/uploads/Governors_Coronavirus_Directive_for_Utah_Update_04-17-2020.pdf) | State | Directive | The Governor's Coronavirus Directive for Utah "Stay Safe, Stay Home" |
 | 4/28/2020 | [1](https://governor.utah.gov/2020/04/28/gov-herbert-announces-a-mask-for-every-utahn-project/) | State | | "A Mask for Every Utahn" Project |
 | 5/1/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-19.pdf) | State | Executive Order No. 2020-19 | Moving the State COVID-19 Public Health Risk Status From Red (High Risk) to Orange (Moderate Risk) |
+| 5/15/2020 | [1](https://rules.utah.gov/wp-content/uploads/Utah-Executive-Order-No.-22.pdf) | State wide (with exceptions) | Executive Order No. 2020-22 | Moving the Utah COVID-19 Public Health Risk Status to Yellow With Certain Exceptions |
