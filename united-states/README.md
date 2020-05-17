@@ -252,7 +252,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 | South Dakota |
 | Tennessee | [1](https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee22.pdf) [2](https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee27.pdf) | Executive Order | 3/31/2020 | 4/30/2020 | |
 | Texas | [1](https://lrl.texas.gov/scanned/govdocs/Greg%20Abbott/2020/GA-14.pdf) | Executive Order | 4/2/2020 | 4/30/2020 |
-| Utah | [1](https://drive.google.com/file/d/1Qey2xIxAEqIxiiAHJyHSxBosmjetkbN7/view) [2](https://coronavirus-download.utah.gov/Governor/Extension%20of%20Stay%20Safe%20Stay%20Home%20Directive.pdf) | Directive | 3/27/2020 | 5/1/2020 | |
+| Utah | [1](https://drive.google.com/file/d/1Qey2xIxAEqIxiiAHJyHSxBosmjetkbN7/view) [2](https://coronavirus-download.utah.gov/Governor/Extension%20of%20Stay%20Safe%20Stay%20Home%20Directive.pdf) [3](https://coronavirus-download.utah.gov/Governor/Executive_Order_Moving_State_Health_Risk_to_Yellow_With_Exceptions.pdf) | Directive | 3/27/2020 | 5/1/2020 | 5/16/2020 |
 | Vermont | [1](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) [2](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%209%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) | Executive Order | 3/25/2020 | 5/15/2020 | |
 | Virgin Islands (U.S.) |
 | Virginia |  [1](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-53-Temporary-Restrictions-Due-To-Novel-Coronavirus-(COVID-19).pdf) [2](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-55-Temporary-Stay-at-Home-Order-Due-to-Novel-Coronavirus-(COVID-19).pdf) | Executive Order | 3/23/2020 | 6/10/2020 | |
