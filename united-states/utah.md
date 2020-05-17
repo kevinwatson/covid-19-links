@@ -129,7 +129,7 @@
 ### High School Commencement Ceremonies
 
 | District | School | Graduation Links | Prerecorded Video Date and Time |
-|---|---|---|
+|---|---|---|---|
 | Alpine | [American Fork](https://afhs.alpineschools.org/) | [1](https://docs.google.com/document/d/1iNgCeKLeHHHZXMLffpXJBfXM8MBKjroAUpENg_yJy1c/edit) |
 | Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) | [1](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) [2](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) | 5/28/2020 @ 6:30pm |
 | Alpine | [Lehi](http://lhs.alpineschools.org/) | [1](http://lhs.alpineschools.org/) | 5/28/2020 @ 8pm |
