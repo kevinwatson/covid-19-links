@@ -128,20 +128,20 @@
 
 ### High School Commencement Ceremonies
 
-| District | School | Graduation Information |
+| District | School | Graduation Links | Prerecorded Video Date and Time |
 |---|---|---|
 | Alpine | [American Fork](https://afhs.alpineschools.org/) | [1](https://docs.google.com/document/d/1iNgCeKLeHHHZXMLffpXJBfXM8MBKjroAUpENg_yJy1c/edit) |
-| Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) | [1](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) |
-| Alpine | [Lehi](http://lhs.alpineschools.org/) |
-| Alpine | [Lone Peak](http://lphs.alpineschools.org/) | [1](https://docs.google.com/document/d/16qpSgHj0_hV5VQjlC3ElvcqkH7j-CGWVp83lpiCo_A8/edit) |
-| Alpine | [Mountain View](http://mvhs.alpineschools.org/) | [1](https://mvhs.alpineschools.org/wp-content/uploads/sites/5/2020/05/Update-March-27th-2.jpg) |
-| Alpine | [Orem](http://ohs.alpineschools.org/) | [1](https://docs.google.com/document/d/184MyZd3VxO1LR2feJnt0Db0_25NuioM8LQehsrXRz6k/edit) |
+| Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) | [1](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) [2](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) | 5/28/2020 @ 6:30pm |
+| Alpine | [Lehi](http://lhs.alpineschools.org/) | [1](http://lhs.alpineschools.org/) | 5/28/2020 @ 8pm |
+| Alpine | [Lone Peak](http://lphs.alpineschools.org/) | [1](https://docs.google.com/document/d/16qpSgHj0_hV5VQjlC3ElvcqkH7j-CGWVp83lpiCo_A8/edit) | 5/28/2020 |
+| Alpine | [Mountain View](http://mvhs.alpineschools.org/) | [1](https://mvhs.alpineschools.org/wp-content/uploads/sites/5/2020/05/Update-March-27th-2.jpg) [2](https://docs.google.com/document/d/1A1pzm1W795kadm1mkobV-gmYM_vUxSAQboASeZX0Krg/edit) | 5/28/2020 |
+| Alpine | [Orem](http://ohs.alpineschools.org/) | [1](https://docs.google.com/document/d/184MyZd3VxO1LR2feJnt0Db0_25NuioM8LQehsrXRz6k/edit) | 5/28/2020 @ 7pm |
 | Alpine | [Pleasant Grove](http://pghs.alpineschools.org/) |
-| Alpine | [Polaris](https://polaris.alpineschools.org/) | [1](https://polaris.alpineschools.org/ccr-and-graduation/) |
-| Alpine | [Polaris West](https://phswest.alpineschools.org/about-phswest/) |
-| Alpine | [Skyridge](http://shs.alpineschools.org/) |
+| Alpine | [Polaris](https://polaris.alpineschools.org/) | [1](https://polaris.alpineschools.org/ccr-and-graduation/) | 5/27/2020 |
+| Alpine | [Polaris West](https://phswest.alpineschools.org/about-phswest/) | | 5/27/2020 |
+| Alpine | [Skyridge](http://shs.alpineschools.org/) | [1](https://drive.google.com/file/d/1QWavgB8w0v-oXfrpqUOGQNPN26rbMTvV/view) [2](https://calendar.google.com/calendar/r/week/2020/5/28?eid=MG9odWNqNXNpZjduc2trNHAzdmllYzdrbGEgYWxwaW5lZGlzdHJpY3Qub3JnXzRjdnJpNDgyOGtya3Rma2k3dTEyN21iY2JnQGc&ctz=America/Denver&sf=true) | 5/28/2020 |
 | Alpine | [Timpanogos](http://ths.alpineschools.org/) | [1](https://docs.google.com/document/d/179Eegg2B7iMz-JiIt_CnIQca3q1rq4FZzOE7y9AWAZE/edit) |
-| Alpine | [Westlake](http://whs.alpineschools.org/) | [1](https://whs.alpineschools.org/class-of-2020-information/) |
+| Alpine | [Westlake](http://whs.alpineschools.org/) | [1](https://whs.alpineschools.org/class-of-2020-information/) | 5/28/2020 @ 6:30pm |
 
 ### Higher Education
 
