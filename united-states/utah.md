@@ -128,7 +128,7 @@
 
 ### High School Commencement Ceremonies
 
-| District | School | Graduation Links | Prerecorded Video Date and Time |
+| District | School | Links | Prerecorded Video Date and Time |
 |---|---|---|---|
 | Alpine | [American Fork](https://afhs.alpineschools.org/) | [1](https://docs.google.com/document/d/1iNgCeKLeHHHZXMLffpXJBfXM8MBKjroAUpENg_yJy1c/edit) [2](https://docs.google.com/document/d/13tu7pmWu0c1WjLLGQUUf8TzoEF0Yn7eeRQdDdhfDCM8/edit) | 5/13/2020 Senior Awards Night; 5/23/2020 Main Street Cruise |
 | Alpine | [Cedar Valley](https://cvhs.alpineschools.org/) | [1](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) [2](https://cvhs.alpineschools.org/wp-content/uploads/sites/16/2020/04/2020-Graduation-Reveal.pdf) | 5/28/2020 @ 6:30pm |
