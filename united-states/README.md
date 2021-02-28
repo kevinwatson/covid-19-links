@@ -72,6 +72,7 @@ Source: [www.fcc.gov - Keep Americans Connected](https://www.fcc.gov/keep-americ
 
 * [S.3548 - CARES Act](https://www.congress.gov/bill/116th-congress/senate-bill/3548)
 * [H.R.266 - Paycheck Protection Program and Health Care Enhancement Act](https://www.congress.gov/bill/116th-congress/house-bill/266)
+* [H.R.1319 - American Rescue Plan Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/1319)
 
 ## National Parks
 
